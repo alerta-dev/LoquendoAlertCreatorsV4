@@ -23,13 +23,10 @@ export function DownloadCard({ title, description, imageUrl, downloadUrl }: Down
         <p className="text-gray-400 mb-4">{description}</p>
         <button 
           onClick={handleDownload}
-          className={`w-full font-bold py-2 px-4 rounded-md transition-colors flex items-center justify-center gap-2
-            ${downloadUrl 
-              ? 'bg-green-500 hover:bg-green-600 text-white cursor-pointer' 
-              : 'bg-gray-600 text-gray-300 cursor-not-allowed'}`}
+          className="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-md transition-colors flex items-center justify-center gap-2"
         >
           <Download className="h-5 w-5" />
-          {downloadUrl ? 'Descargar' : 'Próximamente'}
+          Descargar
         </button>
       </div>
     </div>
