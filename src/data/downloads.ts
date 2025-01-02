@@ -6,7 +6,6 @@ export const programs = [
   imageUrl: 'https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=800&q=80',
   downloadUrl: 'https://tu-enlace-real-de-descarga.com/photoshop'
 },
-
   {
     title: 'Cinema 4D Studio',
     description: 'Software de modelado y animación 3D',
