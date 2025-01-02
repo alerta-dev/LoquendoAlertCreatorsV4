@@ -4,7 +4,7 @@ export const programs = [
   title: 'Adobe Photoshop 2024',
   description: 'Software profesional de edición de imágenes',
   imageUrl: 'https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=800&q=80',
-  downloadUrl: 'https://tu-enlace-real-de-descarga.com/photoshop'
+  downloadUrl: 'https://youtu.be/AmZAIpbQD5M'
 },
   {
     title: 'Cinema 4D Studio',
