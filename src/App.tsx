@@ -69,6 +69,7 @@ function App() {
                   title={item.title}
                   description={item.description}
                   imageUrl={item.imageUrl}
+                  downloadUrl={item.downloadUrl}
                 />
               ))}
             </div>
