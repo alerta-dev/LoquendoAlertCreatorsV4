@@ -1,11 +1,12 @@
 // Programas
 export const programs = [
   {
-    title: 'Adobe Photoshop 2024',
-    description: 'Software profesional de edición de imágenes',
-    imageUrl: 'https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=800&q=80',
-    handleDownload: 'https://youtu.be/w5JwTXZvACg', 
-  },
+  title: 'Adobe Photoshop 2024',
+  description: 'Software profesional de edición de imágenes',
+  imageUrl: 'https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=800&q=80',
+  downloadUrl: 'https://tu-enlace-real-de-descarga.com/photoshop'
+},
+
   {
     title: 'Cinema 4D Studio',
     description: 'Software de modelado y animación 3D',
