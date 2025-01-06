@@ -7,10 +7,10 @@ export const programs = [
   downloadUrl: 'https://youtu.be/AmZAIpbQD5M'
 },
   {
-    title: 'Cinema 4D Studio',
-    description: 'Software de modelado y animación 3D',
+    title: 'Loquendo TTS Director',
+    description: 'Programa de texto a voz, convuerte textos en audios .mp3',
     imageUrl: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/cinema4d', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1Rq7HMDYxNuiDhq5SjX20Baex0P7b6FTI/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Ableton Live 11',
