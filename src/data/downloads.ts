@@ -15,13 +15,13 @@ export const programs = [
   {
     title: 'After Effects 2019',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
     downloadUrl: 'https://www.mediafire.com/file/f3y1gzrcovyq9dh/Adobe+After+Effects+cc+2019.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Adobe After Effects CS5',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
     downloadUrl: 'https://www.mediafire.com/download/8bsb5b7tidcknsk/AfterEffects+CS5+.+Emprice.rar', // Reemplaza con tu enlace real
   },
   {
