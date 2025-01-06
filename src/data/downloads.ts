@@ -13,6 +13,12 @@ export const programs = [
     downloadUrl: 'https://drive.google.com/file/d/1Rq7HMDYxNuiDhq5SjX20Baex0P7b6FTI/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
+    title: 'After Effects 2019',
+    description: 'Programa de edición de video cinematografico',
+    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    downloadUrl: 'https://www.mediafire.com/file/f3y1gzrcovyq9dh/Adobe+After+Effects+cc+2019.rar/file', // Reemplaza con tu enlace real
+  },
+  {
     title: 'Adobe After Effects CS5',
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
@@ -59,22 +65,40 @@ export const programs = [
 // Plugins
 export const plugins = [
   {
-    title: 'V-Ray para 3ds Max',
-    description: 'Motor de renderizado fotorrealista',
+    title: 'New Blue',
+    description: 'Plugin para Sony Vegas/After Effects',
     imageUrl: 'https://images.unsplash.com/photo-1545670723-196ed0954986?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/vray', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1CYyp0iUVi244JDGl_EximtIOXRpOLS7Q/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Topaz DeNoise AI',
-    description: 'Plugin de reducción de ruido para Photoshop',
+    title: 'Boris FX Sapphire',
+    description: 'Plugin para Sony Vegas/After Effects',
     imageUrl: 'https://images.unsplash.com/photo-1542831371-32f555c86880?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/topaz', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1v0u5AvBX7XhnKHWKt_XxSOBwRiehhGxw/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'FabFilter Pro-Q 3',
+    title: 'BCC Plugins',
     description: 'Plugin de ecualización profesional',
     imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/fabfilter', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1iNqneEjKFh_GycD5XbihoQzukrw9JnnO/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+    {
+    title: 'Universe FX',
+    description: 'Plugin de ecualización profesional',
+    imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
+    downloadUrl: 'https://www.mediafire.com/file/jnkwe9rpdj9torn/UNI_PLUGIN.rar/file', // Reemplaza con tu enlace real
+  },
+    {
+    title: 'Magic Bullet Looks',
+    description: 'Plugin de ecualización profesional',
+    imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
+    downloadUrl: 'https://www.mediafire.com/file/18nl583phh8e6a1/Magic+Bullet+Looks.rar', // Reemplaza con tu enlace real
+  },
+    {
+    title: 'BCC Plugins',
+    description: 'Plugin de ecualización profesional',
+    imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
+    downloadUrl: 'https://drive.google.com/file/d/1iNqneEjKFh_GycD5XbihoQzukrw9JnnO/view?usp=sharing', // Reemplaza con tu enlace real
   },
 ];
 
