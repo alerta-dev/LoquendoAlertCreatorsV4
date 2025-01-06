@@ -9,7 +9,7 @@ export const programs = [
   {
     title: 'Loquendo TTS Director',
     description: 'Programa de texto a voz, convuerte textos en audios .mp3',
-    imageUrl: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/e27ba0997088c64ec382dae46e24688b/4dcd8d6d965346f3-3a/s1280x1920/a22fc538858487a5b4be3c84f57fabe924806ca9.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1Rq7HMDYxNuiDhq5SjX20Baex0P7b6FTI/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
