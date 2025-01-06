@@ -27,37 +27,37 @@ export const programs = [
   {
     title: 'Sony Vegas Pro 10',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://mega.nz/file/SYcQGDxC#_6iYSb28GBT-v5l33yJk4xWvDmXo7hFUL0fORR1ZzzQ', // Reemplaza con tu enlace real
   },
   {
     title: 'Sony Vegas 11 (Portable)',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://www.mediafire.com/file/33r0ypv8d959azk/Sony++Vegas+pro+11+portable.rar', // Reemplaza con tu enlace real
   },
   {
     title: 'Sony Vegas Pro 14',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1vSeIUSkxELRhFHeKyvb5EbFEUoKenvFq/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Sony Vegas Pro 15',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://drive.google.com/file/d/10RJ7kOf_RH1JmkGI3dWPkLL3JCx8zxDC/view', // Reemplaza con tu enlace real
   },
   {
     title: 'Sony Vegas Pro 17',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://www.mediafire.com/file/pndsuht2zzrmte5/VegasPro17.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Sony Vegas Pro 18',
     description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1fbHzknO60UEarxj6epPqqtj2md8STqwT/view?usp=sharing', // Reemplaza con tu enlace real
   },
 ];
