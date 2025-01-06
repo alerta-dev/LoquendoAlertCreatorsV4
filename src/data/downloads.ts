@@ -95,10 +95,10 @@ export const plugins = [
     downloadUrl: 'https://www.mediafire.com/file/18nl583phh8e6a1/Magic+Bullet+Looks.rar', // Reemplaza con tu enlace real
   },
     {
-    title: 'BCC Plugins',
+    title: 'RSMB FX',
     description: 'Plugin de ecualización profesional',
     imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://drive.google.com/file/d/1iNqneEjKFh_GycD5XbihoQzukrw9JnnO/view?usp=sharing', // Reemplaza con tu enlace real
+    downloadUrl: 'https://www.mediafire.com/file/2prp2kvgsw4yl5r/RSMB_SV.rar/file', // Reemplaza con tu enlace real
   },
 ];
 
