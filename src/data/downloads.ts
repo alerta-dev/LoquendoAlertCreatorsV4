@@ -105,9 +105,9 @@ export const plugins = [
 // Renders
 export const renders = [
   {
-    title: 'Pack de Renders Arquitectónicos',
-    description: 'Colección de renders de interiores modernos',
-    imageUrl: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80',
+    title: 'Chisato Nishikigi',
+    description: 'Renders subidos por Non',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/1%20-%20Chisato%20Nishikigi.png',
     downloadUrl: 'https://example.com/download/renders-arquitectonicos', // Reemplaza con tu enlace real
   },
   {
