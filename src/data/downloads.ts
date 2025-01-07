@@ -125,13 +125,13 @@ export const renders = [
     {
     title: '2B',
     description: 'By:Dark Zero - Anime: Nier',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/4%20-%202bnier.png',
     downloadUrl: 'https://mega.nz/file/THQy0azD#BKBOfyhD5YQXyx1gxWuoOZGDc16N7oogcLpKFChV33Y', // Reemplaza con tu enlace real
   },
     {
     title: 'Bocchi',
     description: 'By: ? - Anime: Bocchi the Rock!',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/5%20-%20bocchi%20in%20the%20rock.png',
     downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
   },
     {
@@ -141,10 +141,34 @@ export const renders = [
     downloadUrl: 'https://mega.nz/file/XXpgDbzK#Rq_4TX1h8MbqoBcvKXfygwe0_br_ijdKK4YgU-5LJSI', // Reemplaza con tu enlace real
   },
     {
-    title: 'Albedo',
-    description: 'By:Dark Zero - Anime: Overlord',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
-    downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
+    title: 'Elma Bella',
+    description: 'By:Dark Zero - Anime: Kobayashi mi dragon',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/7%20-%20Elma%20kobayashi%20maid%20dragon.png',
+    downloadUrl: 'https://mega.nz/file/Keo1TACD#PElBU0bhkJAHInztJPp1ApDpJXHf_57I-eI-pnbBwl0', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Deku',
+    description: 'By:Joaco - Anime: Boku no hero academia',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/8%20-%20dekubnha.png',
+    downloadUrl: 'https://www.mediafire.com/file/9597jav2qkqt9uy/Deku.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Ishigami',
+    description: 'By:Kally 1706 - Anime: Love is War',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/9%20-%20ishigami%20love%20is%20war.png',
+    downloadUrl: 'https://mega.nz/file/Keo1TACD#PElBU0bhkJAHInztJPp1ApDpJXHf_57I-eI-pnbBwl0', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Luffy',
+    description: 'By:Rodrigo - Anime: One piece',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/10%20-%20luffyop.png',
+    downloadUrl: 'https://www.mediafire.com/file/bm55rid3eyor4av/Luffy_render.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Torhu',
+    description: 'By:Dark Zero - Anime: Kobayashi mi dragon',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/11%20-%20tohrukmd.png',
+    downloadUrl: 'https://mega.nz/file/nCgSEDZL#-itEAKWO2QE79JaagsNsn_Zqx4LuJlC8lWjZQKzsg7w', // Reemplaza con tu enlace real
   },
 ];
 
