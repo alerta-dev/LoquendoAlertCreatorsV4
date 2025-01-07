@@ -67,37 +67,37 @@ export const plugins = [
   {
     title: 'New Blue',
     description: 'Plugin para Sony Vegas/After Effects',
-    imageUrl: 'https://images.unsplash.com/photo-1545670723-196ed0954986?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/eb0584d358db7d23dfc8322f6b9af680/0078f27567a000f1-19/s1280x1920/fa80c92b240c9363f1f64b3b9f16ae8cae00bc9d.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1CYyp0iUVi244JDGl_EximtIOXRpOLS7Q/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Boris FX Sapphire',
     description: 'Plugin para Sony Vegas/After Effects',
-    imageUrl: 'https://images.unsplash.com/photo-1542831371-32f555c86880?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/e7f73ea27a8ac35ca7408a22754e01fc/0078f27567a000f1-45/s1280x1920/605c46765f102956e8a9c45d82b5a55ab78e5cbe.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1v0u5AvBX7XhnKHWKt_XxSOBwRiehhGxw/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'BCC Plugins',
     description: 'Plugin de ecualización profesional',
-    imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/ca5436ec67f5fad3ef60a773e0ac8a24/0078f27567a000f1-5f/s1280x1920/e727e2edc7aade383ee0ea1f26d3a4d9e8c07662.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1iNqneEjKFh_GycD5XbihoQzukrw9JnnO/view?usp=sharing', // Reemplaza con tu enlace real
   },
     {
     title: 'Universe FX',
     description: 'Plugin de ecualización profesional',
-    imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/587172cf1a1b366f90ec47d5772b8cfc/0078f27567a000f1-e7/s1280x1920/0c81ec17e3e58066b50a299fa437c2fa72e8f27b.pnj',
     downloadUrl: 'https://www.mediafire.com/file/jnkwe9rpdj9torn/UNI_PLUGIN.rar/file', // Reemplaza con tu enlace real
   },
     {
     title: 'Magic Bullet Looks',
     description: 'Plugin de ecualización profesional',
-    imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/a679c9d5f4e5cf3fab7d5d4202d16a57/0078f27567a000f1-92/s1280x1920/3b1975573ae4a006ceb74286908bf2f50e15017a.pnj',
     downloadUrl: 'https://www.mediafire.com/file/18nl583phh8e6a1/Magic+Bullet+Looks.rar', // Reemplaza con tu enlace real
   },
     {
     title: 'RSMB FX',
     description: 'Plugin de ecualización profesional',
-    imageUrl: 'https://images.unsplash.com/photo-1563330232-57114bb0823c?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/ca629ed5feb73aa03f71028c9f14780f/0078f27567a000f1-10/s1280x1920/d23685abfd1fb56e04399d33068e99cdb6120107.pnj',
     downloadUrl: 'https://www.mediafire.com/file/2prp2kvgsw4yl5r/RSMB_SV.rar/file', // Reemplaza con tu enlace real
   },
 ];
