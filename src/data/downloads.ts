@@ -224,6 +224,162 @@ export const renders = [
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/20%20-%20makichan.png',
     downloadUrl: 'https://www.mediafire.com/file/qzfphe7fxyi4iun/gamo_chan.rar/file', // Reemplaza con tu enlace real
   },
+  {
+    title: 'Shindou',
+    description: 'By:Eduardohaloce - Anime: Horimiya',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/21%20-%20Shindou%20Kouichi.png',
+    downloadUrl: 'https://www.mediafire.com/file/850gfscb6pp986m/Shindou_Kouichi.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Fu',
+    description: 'By:Raymanalex12 - Anime: Release the Spyce',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/22%20-%20fuu.png',
+    downloadUrl: 'https://www.mediafire.com/file/5nkzdcs0avnwmst/fu+sagami+%28De+Raymanalex+12+para+Loquendo+Alert%29.rar/file?fbclid=IwAR23iG9V2crS_819qooCnRqlWdG1oaOva4dGC-XT6ZafEA-vqMeeJAmTMyE', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Gildarts',
+    description: 'By:Eduardohaloce - Anime: Clive',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/23%20-%20el%20hombrexd.png',
+    downloadUrl: 'https://www.mediafire.com/file/x5iyvfbjhosqctl/gildarts_clive.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Maho',
+    description: 'By:Raymanalex12 - Anime: Nagatoro',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/24%20-%20chicapeluchexd.png',
+    downloadUrl: 'https://www.mediafire.com/file/3xi61matjdgh0t1/Maho+Steins+gate+Renders+By+Raymanalex12.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Ryuko',
+    description: 'By:Dark Zero - Anime: Nagatoro',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/24%20-%20mi%20novia.png',
+    downloadUrl: 'https://mega.nz/file/sg5CzLTI#Em7V55iYFzaB0dLyJzb4gOa9sugo_hp-c-Bo9WfZ7Zw', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Saito',
+    description: 'By:Raymanalex12 - Anime: Oshi no ko',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/25%20-%20mi%20tia.png',
+    downloadUrl: 'https://www.mediafire.com/file/jdk8acrjrwka0mc/Saito_Miyako_%28De_Raymanalex_12_para_Loquendo_Alert%29.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Haruhi',
+    description: 'By:Terpintox - Anime: T.M.O.H.S',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/26%20-%20monachinagenericaxd.png',
+    downloadUrl: 'https://www.mediafire.com/file/4nasdhcbuj2rrdl/haruhi_suzumiya.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Yuki',
+    description: 'By:Non - Anime: LoveLive!',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/27%20-%20la%20peruana.png',
+    downloadUrl: 'https://www.mediafire.com/file/xqrbnyhn3qirnbr/Yuki_Nijigasaki.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Alice',
+    description: 'By:Non - Anime: Sao',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/28%20-%20la%20tipa%20lol.png',
+    downloadUrl: 'https://www.mediafire.com/file/4zy2elpbhptawbt/%5BNon_Nijikasi%5D_V2.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Yuria',
+    description: 'By:Raymanalex12 - Anime: Mieruko-chan',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/29%20-%20no%20c%20bro.png',
+    downloadUrl: 'https://www.mediafire.com/file/ik6cwx7f0rhvbhh/Yuria_Niguredou_%2528De_Raymanalex_12_para_Loquendo_Alert%2529.rar/file?fbclid=IwAR2eVbU4TrwUyUaXUe0PlFZsLkvI10AxPeskrarP7_9bJ71NVgZ6ylniW4M', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Otori',
+    description: 'By:Raymanalex12 - Anime: Komi-san',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/30%20-%20jajaja%20c%20mamut.png',
+    downloadUrl: 'https://www.mediafire.com/file/7u61s8ugh19xgwp/OTORI_KAEDE_%2528De_raymanalex_12_para_Loquendo_Alert%2529.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Sakamoto',
+    description: 'By:Ayami - Anime: Nichijou',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/31%20-%20un%20gato%20nigga.png',
+    downloadUrl: 'https://www.mediafire.com/file/fnzmhl153c020j0/Sakamoto_%28Gato%29.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Sumi',
+    description: 'By:Raymanalex12 - Anime: Rentadas',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/32%20-%20el%20trapo%20del%20salon.png',
+    downloadUrl: 'https://www.mediafire.com/file/wpze8oakid5agwv/SUMI+SAKURASAWA+%28Por+raymanalex+12+para+Loquendo+alert%29.rar/file?fbclid=IwAR2eVbU4TrwUyUaXUe0PlFZsLkvI10AxPeskrarP7_9bJ71NVgZ6ylniW4M', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Mencia',
+    description: 'By:Raymanalex12 - Anime: Pokemon',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/33%20-%20pokemoon.png',
+    downloadUrl: 'https://www.mediafire.com/file/w1jore3bmqgrnim/Mencia+%28nemona%29+PARTE+1+%28de+Raymanalex+12+para+Loquendo+Alert%29.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Crona',
+    description: 'By:Raymanalex12 - Anime: Soul Eater',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/34%20-%20la%20edgy.png',
+    downloadUrl: 'https://www.mediafire.com/file/xggayzzyqtn49m7/Crona.zip/file?fbclid=IwAR1HO5a1htVz91a2ADRKiG-ZAfjRzjCdwkyhnMyOkmNKqdeh-fWUnnOc8lU', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Derieri',
+    description: 'By:? - Anime: Nanatsu no taizai',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/35%20-%20no%20c%20x2.png',
+    downloadUrl: 'https://www.mediafire.com/file/ynsqh3vht4446o3/Derieri.zip/file?fbclid=IwAR1nzcu7yI7s0ReB2p_RJVxudz9k-s5emX9fRXvvIOOGfYUrG1mVH96tpo8', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Seiya',
+    description: 'By:? - Anime: Isekai Cuartet',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/28%20-%20la%20tipa%20lol.png',
+    downloadUrl: 'https://www.mediafire.com/file/eyu4qzj8k9grgm5/El_heroe_cauteloso.zip/file?fbclid=IwAR0jUxrX0MmWSqMLac5wN3xY951Maih36nB9Ahdv9Z7peROMRBDMyuq2tnw', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Corrin',
+    description: 'By:? - Anime: Fire Emblem',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/37%20-%20podersword.png',
+    downloadUrl: 'https://mega.nz/folder/YrAGzIZT#rKusCMaGfXkdx4orB4sQ0g', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Blyeth',
+    description: 'By:? - Anime: Fire Emblem',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/38%20-%20la%20tipa%20tactica.png',
+    downloadUrl: 'https://mega.nz/folder/YrYDRBKB#b01RJeURL54kz57SFPuZDA', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Mario',
+    description: 'By: Ayami - Anime: Doctor Mario',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/39%20-%20el%20mariooo.png',
+    downloadUrl: 'https://www.mediafire.com/file/fznwfxh8jojkf2s/Doctor_Mario.zip/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Touma',
+    description: 'By:? - Anime: Fire Emblem',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/37%20-%20podersword.png',
+    downloadUrl: 'https://mega.nz/folder/YrAGzIZT#rKusCMaGfXkdx4orB4sQ0g', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Elesis',
+    description: 'By: Kaira - Anime: ElSword',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/41%20-%20no%20c%20weeee%20x3.png',
+    downloadUrl: 'https://www.mediafire.com/file/kmkebjovl38i9jx/Elesis_Renders.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Suichi',
+    description: 'By:LuisFriends - Anime: DangarompaV3',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/42%20-%20luis.png',
+    downloadUrl: 'https://www.mediafire.com/file/0ox8393s0blv4it/LuisFriends_PACK_RENDERS_ULTIMO_30_12_22.zip/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Kaoru',
+    description: 'By: LuisFriends - Anime: Fire Emblem',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/43%20-%20la%20vieja%20de%20luis.png',
+    downloadUrl: 'https://www.mediafire.com/file/y94crb75dmmwoxo/Kaoru+Tanamachi.zip/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Ene',
+    description: 'By: LuisFriends - Anime: Fire Emblem',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/44%20-%20la%20otra%20vieja%20de%20luis.png',
+    downloadUrl: 'https://www.mediafire.com/file/4o6njihtauc2rgj/MY+ENE.zip/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Tuyu',
+    description: 'By:LuisFriends - Anime: Fire Emblem',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/45%20-%20tantas%20viejas%20luiss!.png',
+    downloadUrl: 'https://www.mediafire.com/file/d6q9cns5qc951w0/TUYU.zip/file', // Reemplaza con tu enlace real
+  },
 ];
 
 // Fondos
