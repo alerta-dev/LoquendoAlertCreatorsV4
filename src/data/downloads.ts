@@ -107,7 +107,7 @@ export const renders = [
   {
     title: 'Chisato Nishikigi',
     description: 'By: Non - Anime: Nombrelol',
-    imageUrl: 'https://imgur.com/ZYmJtpr.png',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/1%20-%20Chisato%20Nishikigi.png',
     downloadUrl: 'https://example.com/download/renders-arquitectonicos', // Reemplaza con tu enlace real
   },
   {
@@ -169,6 +169,60 @@ export const renders = [
     description: 'By:Dark Zero - Anime: Kobayashi mi dragon',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/11%20-%20tohrukmd.png',
     downloadUrl: 'https://mega.nz/file/nCgSEDZL#-itEAKWO2QE79JaagsNsn_Zqx4LuJlC8lWjZQKzsg7w', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Taiga',
+    description: 'By:eduardohaloce - Anime: Toradora!',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/12%20-%20taigatoradora.png',
+    downloadUrl: 'https://mega.nz/file/nCgSEDZL#-itEAKWO2QE79JaagsNsn_Zqx4LuJlC8lWjZQKzsg7w', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Kirito',
+    description: 'By:Residents96 - Anime: Kobayashi mi dragon',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/13%20-%20kiritosao.png',
+    downloadUrl: 'https://www.mediafire.com/file/uxcr0f3a78wylf8/nudes_de_residents69.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Makima',
+    description: 'By:Fos - Anime: Chainsaw Man',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/14%20-%20makimagod.png',
+    downloadUrl: 'https://mega.nz/folder/bUI2jBqR#oxsqGCeBp8MJ3Hv1fR-s6A/folder/TQAgQJST', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Megumin',
+    description: 'By:Fos - Anime: Konosuba',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/15%20-%20meguminkonosuba.png',
+    downloadUrl: 'https://mega.nz/folder/6M5xnTRL#P7BJO5V9wQoW9S5oVxR-6g/folder/aA4BDZxS', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Mion',
+    description: 'By:Kiyoshi Sonozaki - Anime: Higurashi',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/16%20-%20Mion%20SonozakiHigurashi.png',
+    downloadUrl: 'https://www.mediafire.com/file/8d6tlij5g5lz9w3/Mion_Renders.rar/file?fbclid=IwAR3AZAVs4o4UJ7gRucj_8TBG7sr3wgsMWouHKfS3cKKBfeCKXG7G9ZWi8x0', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Kenshin',
+    description: 'By:Eduardohaloce - Anime: SamuraiX',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/17%20-%20Kenshin%20Himura.png',
+    downloadUrl: 'https://www.mediafire.com/file/3izxbej3ixfeije/kenshin_himura.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Shoyo Hinata',
+    description: 'By:Eduardohaloce - Anime: Haikyu!',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/18%20-%20Shoyo%20Hinata.png',
+    downloadUrl: 'https://www.mediafire.com/file/6y56o9lf8l7zevf/Shoyo_Hinata.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Marin',
+    description: 'By:Raymanalex12 - Anime: My Dress-up Darling',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/19%20-%20marin.png',
+    downloadUrl: 'https://www.mediafire.com/file/72oyjprobo2cwop/marin.rar/file?fbclid=IwAR2P3YA-C1KScsYoB0VobqYrq9kFZVNf4Jsa5cwhMGsvZ_zAn_F7MhVFzyA', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Gamo',
+    description: 'By:Eduardohaloce - Anime: Nagatoro',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/20%20-%20makichan.png',
+    downloadUrl: 'https://www.mediafire.com/file/qzfphe7fxyi4iun/gamo_chan.rar/file', // Reemplaza con tu enlace real
   },
 ];
 
