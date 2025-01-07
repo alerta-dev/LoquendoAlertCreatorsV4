@@ -415,19 +415,19 @@ export const sounds = [
   {
     title: 'Pack de Efectos de Sonido',
     description: 'Biblioteca completa de SFX',
-    imageUrl: 'https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
     downloadUrl: 'https://example.com/download/efectos-sonido', // Reemplaza con tu enlace real
   },
   {
     title: 'Loops Musicales',
     description: 'Colección de loops para producción musical',
-    imageUrl: 'https://images.unsplash.com/photo-1519508234439-4f23643125c1?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
     downloadUrl: 'https://example.com/download/loops-musicales', // Reemplaza con tu enlace real
   },
   {
     title: 'Ambientes Sonoros',
     description: 'Pack de sonidos ambientales',
-    imageUrl: 'https://images.unsplash.com/photo-1527176930608-09cb256ab504?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
     downloadUrl: 'https://example.com/download/ambientes-sonoros', // Reemplaza con tu enlace real
   },
 ];
