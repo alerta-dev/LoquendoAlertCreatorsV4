@@ -107,7 +107,7 @@ export const renders = [
   {
     title: 'Chisato Nishikigi',
     description: 'By: Non - Anime: Nombrelol',
-    imageUrl: 'https://imgur.com/U5tFEQU.png',
+    imageUrl: 'https://imgur.com/ZYmJtpr.png',
     downloadUrl: 'https://example.com/download/renders-arquitectonicos', // Reemplaza con tu enlace real
   },
   {
