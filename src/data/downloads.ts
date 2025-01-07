@@ -347,7 +347,7 @@ export const renders = [
   {
     title: 'Touma',
     description: 'By:? - Anime: Fire Emblem',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/37%20-%20podersword.png',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/40%20-%20wachin%20magico.png',
     downloadUrl: 'https://mega.nz/folder/YrAGzIZT#rKusCMaGfXkdx4orB4sQ0g', // Reemplaza con tu enlace real
   },
   {
