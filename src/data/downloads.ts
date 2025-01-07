@@ -112,15 +112,39 @@ export const renders = [
   },
   {
     title: 'Albedo',
-    description: 'By:Dark Zero - Anime:Overlord',
+    description: 'By:Dark Zero - Anime: Overlord',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
     downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
   },
   {
     title: 'Chiaki Oogaki',
-    description: 'By:Raymanalex12 - Anime:',
-    imageUrl: 'https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/renders-naturaleza', // Reemplaza con tu enlace real
+    description: 'By:Raymanalex12 - Anime:CampCamp',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/3-%20Chiaki%20Oogaki.png',
+    downloadUrl: 'https://www.mediafire.com/file/5hnfr2b3v9emlm0/Chiaki_%2528Por_raymanalex_12_Para_Loquendo_Alert%2529.rar/file?fbclid=IwAR0jMyYEzTm46EjuTaaQTFQR5Kzwq-vkvt97B6oR30Rdwo_Q1btx_xdKGRo', // Reemplaza con tu enlace real
+  },
+    {
+    title: '2B',
+    description: 'By:Dark Zero - Anime: Nier',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
+    downloadUrl: 'https://mega.nz/file/THQy0azD#BKBOfyhD5YQXyx1gxWuoOZGDc16N7oogcLpKFChV33Y', // Reemplaza con tu enlace real
+  },
+    {
+    title: 'Bocchi',
+    description: 'By: ? - Anime: Bocchi the Rock!',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
+    downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
+  },
+    {
+    title: 'Rias Gremory',
+    description: 'By:? - Anime: High School DxD',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/6%20-%20riasgremory.png',
+    downloadUrl: 'https://mega.nz/file/XXpgDbzK#Rq_4TX1h8MbqoBcvKXfygwe0_br_ijdKK4YgU-5LJSI', // Reemplaza con tu enlace real
+  },
+    {
+    title: 'Albedo',
+    description: 'By:Dark Zero - Anime: Overlord',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
+    downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
   },
 ];
 
