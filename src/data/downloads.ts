@@ -128,21 +128,27 @@ export const renders = [
 export const backgrounds = [
   {
     title: 'Fondos de Shaddy',
-    description: 'Fondos artísticos en alta resolución',
+    description: 'Pack de Fondos de anime de ciudades y habitaciones',
     imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/FondosShaddy.png',
     downloadUrl: 'https://www.mediafire.com/file/e0lsqwrv575qs88/Fondos_para_videos.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Texturas Naturales',
-    description: 'Colección de texturas orgánicas',
-    imageUrl: 'https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/texturas-naturales', // Reemplaza con tu enlace real
+    title: 'Fondos del FOS 1',
+    description: 'Pack de Fondos medievales de anime de ciudades y habitaciones',
+    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos1Fondos.png',
+    downloadUrl: 'https://mega.nz/folder/6M5xnTRL#P7BJO5V9wQoW9S5oVxR-6g/folder/jEh1xbiA', // Reemplaza con tu enlace real
   },
   {
-    title: 'Fondos Minimalistas',
-    description: 'Pack de wallpapers minimalistas',
-    imageUrl: 'https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/fondos-minimalistas', // Reemplaza con tu enlace real
+    title: 'Fondos del FOS 2',
+    description: 'Pack de Fondos de anime futurista de ciudades y habitaciones',
+    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos2Fondoss.png',
+    downloadUrl: 'https://mega.nz/folder/bUI2jBqR#oxsqGCeBp8MJ3Hv1fR-s6A/folder/mJBgGBCQ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Fondos Niki',
+    description: 'Pack de Fondos de anime de ciudades y habitaciones',
+    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos2Fondoss.png',
+    downloadUrl: 'https://www.mediafire.com/file/40xkqciavtipjfb/Fondos_sacados_por_niki.rar/file', // Reemplaza con tu enlace real
   },
 ];
 
