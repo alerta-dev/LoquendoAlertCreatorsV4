@@ -129,7 +129,7 @@ export const backgrounds = [
   {
     title: 'Fondos de Shaddy',
     description: 'Fondos artísticos en alta resolución',
-    imageUrl: 'https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/FondosShaddy.png',
     downloadUrl: 'https://www.mediafire.com/file/e0lsqwrv575qs88/Fondos_para_videos.rar/file', // Reemplaza con tu enlace real
   },
   {
