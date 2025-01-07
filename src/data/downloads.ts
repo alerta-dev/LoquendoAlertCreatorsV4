@@ -111,14 +111,14 @@ export const renders = [
     downloadUrl: 'https://example.com/download/renders-arquitectonicos', // Reemplaza con tu enlace real
   },
   {
-    title: 'Renders de Productos',
-    description: 'Pack de renders para presentaciones de productos',
-    imageUrl: 'https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/renders-productos', // Reemplaza con tu enlace real
+    title: 'Albedo',
+    description: 'By:Dark Zero - Anime:Overlord',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
+    downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
   },
   {
-    title: 'Escenas de Naturaleza',
-    description: 'Renders fotorrealistas de paisajes naturales',
+    title: 'Chiaki Oogaki',
+    description: 'By:Raymanalex12 - Anime:',
     imageUrl: 'https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=800&q=80',
     downloadUrl: 'https://example.com/download/renders-naturaleza', // Reemplaza con tu enlace real
   },
