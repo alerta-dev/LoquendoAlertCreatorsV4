@@ -107,7 +107,7 @@ export const renders = [
   {
     title: 'Chisato Nishikigi',
     description: 'By: Non - Anime: Nombrelol',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/1%20-%20Chisato%20Nishikigi.png',
+    imageUrl: 'https://imgur.com/I0OfECz.png',
     downloadUrl: 'https://example.com/download/renders-arquitectonicos', // Reemplaza con tu enlace real
   },
   {
