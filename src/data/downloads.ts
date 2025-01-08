@@ -1,10 +1,10 @@
 // Programas
 export const programs = [
   {
-  title: 'Adobe Photoshop 2024',
+  title: 'Adobe Photoshop 2020',
   description: 'Software profesional de edición de imágenes',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
-  downloadUrl: 'https://youtu.be/AmZAIpbQD5M'
+  downloadUrl: 'https://drive.google.com/file/d/1b6JPsIwd7XQGfygDWQyrLjCDcyds2c6O/view?usp=sharing'
 },
   {
     title: 'Loquendo TTS Director',
