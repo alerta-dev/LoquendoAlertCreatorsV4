@@ -1,6 +1,24 @@
 // Programas
 export const programs = [
   {
+    title: 'Loquendo TTS Director',
+    description: 'Programa de texto a voz, convuerte textos en audios .mp3',
+    imageUrl: 'https://64.media.tumblr.com/e27ba0997088c64ec382dae46e24688b/4dcd8d6d965346f3-3a/s1280x1920/a22fc538858487a5b4be3c84f57fabe924806ca9.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1Rq7HMDYxNuiDhq5SjX20Baex0P7b6FTI/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Topaz GigaPixel AI',
+    description: 'Programa de para escalar imagenes en buena calidad',
+    imageUrl: 'https://64.media.tumblr.com/4d4039ed4e4426ec3de6c0116f4ddebd/0b83ea840ef418a8-b6/s1280x1920/6d367105bb2756632d2522fcda1a3770e8386f89.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1J3iiilN6Hh6jSAJiE4XiwrivIlf40z-6/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Movavi Video Converter 14',
+    description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
   title: 'Adobe Photoshop 2018',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
@@ -30,12 +48,6 @@ export const programs = [
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
   downloadUrl: 'https://www.mediafire.com/file/yp0f1r4j0d6r21b/WIN_APS_V23.5.0.669_AP_ZNT.rar/file', // Reemplaza con tu enlace real
-  },
-  {
-    title: 'Loquendo TTS Director',
-    description: 'Programa de texto a voz, convuerte textos en audios .mp3',
-    imageUrl: 'https://64.media.tumblr.com/e27ba0997088c64ec382dae46e24688b/4dcd8d6d965346f3-3a/s1280x1920/a22fc538858487a5b4be3c84f57fabe924806ca9.pnj',
-    downloadUrl: 'https://drive.google.com/file/d/1Rq7HMDYxNuiDhq5SjX20Baex0P7b6FTI/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'After Effects 2019',
@@ -98,18 +110,6 @@ export const programs = [
     downloadUrl: 'https://drive.google.com/file/d/1kqxon-lrJFSfWE1iPIcqOsNefryDrkJO/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Topaz GigaPixel AI',
-    description: 'Programa de para escalar imagenes en buena calidad',
-    imageUrl: 'https://64.media.tumblr.com/4d4039ed4e4426ec3de6c0116f4ddebd/0b83ea840ef418a8-b6/s1280x1920/6d367105bb2756632d2522fcda1a3770e8386f89.pnj',
-    downloadUrl: 'https://drive.google.com/file/d/1J3iiilN6Hh6jSAJiE4XiwrivIlf40z-6/view?usp=sharing', // Reemplaza con tu enlace real
-  },
-  {
-    title: 'Movavi Video Converter 14',
-    description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
-    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
-    downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
-  },
-  {
     title: 'Adobe Premier 2020',
     description: 'contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
@@ -132,18 +132,6 @@ export const programs = [
     description: 'contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
-  },
-  {
-    title: 'Movavi Video Converter 14',
-    description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
-    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
-    downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
-  },
-  {
-    title: 'Movavi Video Converter 14',
-    description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
-    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
-    downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
   title: 'Adobe Ilustrator 2019',
