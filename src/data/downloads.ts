@@ -84,6 +84,24 @@ export const programs = [
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
   },
+  {
+    title: 'Adobe Premier 2020',
+    description: 'Programa de edicion',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/hcjo00k3pqyx2xv/WIN_APP_V14.9.0.52_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Movavi Video Converter 14',
+    description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Movavi Video Converter 14',
+    description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
+  },
 ];
 
 // Plugins
