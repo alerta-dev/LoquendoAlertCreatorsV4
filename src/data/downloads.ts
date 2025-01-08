@@ -528,13 +528,13 @@ export const renders = [
       
   {
     title: 'Yukine',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Noragami Aragoto',
     imageUrl: 'https://64.media.tumblr.com/223dd9c3780d7215c77b85f858e5a04f/db8347b3c7f0b20c-ad/s1280x1920/30054158527f95180cd7e33d5e6606b934cfa830.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1MiKBpyE7gHkJ0gSXqQ4nnBrMSuQe5kQB/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Yuichiro Hyakuya',
-    description: ' By:? - Anime: ',
+    description: ' By: Yuu - Anime: Owari No Seraph',
     imageUrl: 'https://64.media.tumblr.com/c2c300fc0e3a029416130b2adf72234a/db8347b3c7f0b20c-56/s1280x1920/793ad27d97a5f36d0632a476312ebda4f6b347bd.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1vTPOAh8WD7H205FMoFTOBX752gbHytu7/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -553,7 +553,7 @@ export const renders = [
 
   {
     title: 'Usagi Saijonji',
-    description: ' By:? - Anime: Taimado Gakuen 35 Shiken',
+    description: ' By: Kuzer - Anime: Taimado Gakuen 35 Shiken',
     imageUrl: 'https://64.media.tumblr.com/716f21dc392cb4900380a1421f1c6bf7/db8347b3c7f0b20c-9c/s1280x1920/140681ad75bc8e3b1099fa7fb1eb89f9a092274a.jpg',
     downloadUrl: 'https://drive.google.com/file/d/15H-xuV5WWqgHeDoxHPVLDbd5_q6gnsTg/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -566,7 +566,7 @@ export const renders = [
   },
   {
     title: 'Tamaki Kotatsu',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Fire Force',
     imageUrl: 'https://64.media.tumblr.com/3c4dfff6ed38ff96f8e69d353930afac/db8347b3c7f0b20c-00/s1280x1920/16506afbd7e0095626d5fb0d5d0e1571749c247d.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1cpwqN_4kZ76wpIrGIAAHftlDXROa01bR/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -577,20 +577,20 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1-sAqUKMlxNFdmkfBQWZMwIDreD4ztSUC/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Stella',
-    description: ' By:? - Anime: ',
+    title: 'Stella Shining',
+    description: ' By:? - Anime: Egao no Daika',
     imageUrl: 'https://64.media.tumblr.com/0eed51ff475b3a0d5edec530c390876c/db8347b3c7f0b20c-6f/s1280x1920/6b4c92c23feb3eefb209e3621759b2b5077e7809.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1hqoH__VhhIMUazxziNU-81cPijNJjXUP/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'sidney',
-    description: ' By:? - Anime: ',
+    title: 'Raichou Hiratsuka',
+    description: ' By:? - Anime: Kyouran Kazoku Nikki ',
     imageUrl: 'https://64.media.tumblr.com/e3dc5864b3182bde9e95027f04d1eb22/db8347b3c7f0b20c-71/s1280x1920/4bc5cfac7ce2a54c40696b3672de758dc6a3a5bb.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1onavleH1FxxIiRcqoAdVJ0GYHyt-y1o8/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Shinji Kazama',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Munou na Nana ',
     imageUrl: 'https://64.media.tumblr.com/5410c231ba5fc4de67cf2024a3dffeac/db8347b3c7f0b20c-9b/s1280x1920/d069acbc04bbd8771d0dc22303e34b5f360e5350.jpg',
     downloadUrl: 'https://drive.google.com/file/d/12QnSNaG4eCvR6gjaogdtboH2FQ7bKI7Y/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -608,7 +608,7 @@ export const renders = [
   },
   {
     title: 'Satomi Rentaro',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Black Bullet',
     imageUrl: 'https://64.media.tumblr.com/21fa43b8177c56264d38d0302e813a31/ab3fb9bff5cd10e3-75/s1280x1920/444e971b3cc3ce7c90ee6f0f5b2e3e9a00e07b11.jpg',
     downloadUrl: 'https://drive.google.com/file/d/19TO64LcY_5Ji7r4NNHOBP_0W0k2J2Eta/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -638,13 +638,13 @@ export const renders = [
   },
   {
     title: 'Rory',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Gate ',
     imageUrl: 'https://64.media.tumblr.com/5b7c766602201ac18972d9d653ab2a1a/ab3fb9bff5cd10e3-43/s1280x1920/a9e83b7a3c8901322c48755df4b0bd55bc8c307c.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1nqUqWn_piom38tSRHNNIH1ZH6rW1v1F2/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Rin Okumura',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Blue Exorcist ',
     imageUrl: 'https://64.media.tumblr.com/fc6ed2563c2da7203fae489ac40134fa/ab3fb9bff5cd10e3-2a/s1280x1920/11538664d810a98ebcbfa50922124547484d7c89.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1o5RnmGQSIVCplDwGAe1UYQi3EAxswOqz/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -667,8 +667,8 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1x1ZB30N-Yc956rnVvQ08lvz0mFLszaAx/view?usp=sharing', // Reemplaza con tu enlace real
   },
     {
-    title: 'Raechel',
-    description: ' By:? - Anime: ',
+    title: 'Raechel Gardner',
+    description: ' By: Raiyuga - Anime: Satsuriku no Tenshi ',
     imageUrl: 'https://64.media.tumblr.com/f2abff37a6c2807267c873b4e40053d2/ab3fb9bff5cd10e3-8c/s1280x1920/80adb577496a736600033de39787d625a6848f6b.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1lH49AlKBBuW0WtZdjn0lfejPC1E5PHpL/view?usp=sharing', // Reemplaza con tu enlace real
   },
