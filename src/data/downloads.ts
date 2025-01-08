@@ -5,7 +5,19 @@ export const programs = [
   description: 'Software profesional de edición de imágenes',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
   downloadUrl: 'https://drive.google.com/file/d/1b6JPsIwd7XQGfygDWQyrLjCDcyds2c6O/view?usp=sharing'
-},
+  },
+  {
+  title: 'Adobe Photoshop 2018',
+  description: 'contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Adobe Premier 2023',
+    description: 'contraseña: www.artistapirata.com',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
   {
     title: 'Loquendo TTS Director',
     description: 'Programa de texto a voz, convuerte textos en audios .mp3',
@@ -86,9 +98,27 @@ export const programs = [
   },
   {
     title: 'Adobe Premier 2020',
-    description: 'Programa de edicion',
+    description: 'contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://www.mediafire.com/file/hcjo00k3pqyx2xv/WIN_APP_V14.9.0.52_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Adobe Premier 2021',
+    description: 'contraseña: www.artistapirata.com',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/4y56b8a4q331s91/WIN_APR_V15.4.1.6_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Adobe Premier 2022',
+    description: 'contraseña: www.artistapirata.com',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/qs365zx4kjnpfhf/WIN_APR_V22.6.2.2_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Adobe Premier 2023',
+    description: 'contraseña: www.artistapirata.com',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Movavi Video Converter 14',
