@@ -8,7 +8,7 @@ export const programs = [
   },
   {
     title: 'Topaz GigaPixel AI',
-    description: 'Programa de para escalar imagenes en buena calidad',
+    description: 'Programa para escalar imagenes en buena calidad',
     imageUrl: 'https://64.media.tumblr.com/4d4039ed4e4426ec3de6c0116f4ddebd/0b83ea840ef418a8-b6/s1280x1920/6d367105bb2756632d2522fcda1a3770e8386f89.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1J3iiilN6Hh6jSAJiE4XiwrivIlf40z-6/view?usp=sharing', // Reemplaza con tu enlace real
   },
