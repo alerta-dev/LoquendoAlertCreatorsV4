@@ -686,7 +686,7 @@ export const renders = [
   },
   {
     title: 'Okada Izo',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Fade ',
     imageUrl: 'https://64.media.tumblr.com/98833aab832764f8cfd918c6101be8ee/ab3fb9bff5cd10e3-97/s1280x1920/14c85a2fb7f9cb5362e88b6ad597d7d59e6356e2.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Qfk_ocGZh2Pn2g00BqkEqiJDcDWkM6f6/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -704,13 +704,13 @@ export const renders = [
   },
   {
     title: 'Nona',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Death Parade',
     imageUrl: 'https://64.media.tumblr.com/1086841682e844c82a01ca351bd8e225/ab3fb9bff5cd10e3-bf/s1280x1920/2fdac6d0e7a6a366077ea85f62ec5f222b9804ab.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Z9ZUxLrpirDDdHvS-OGLPARosOrjrEzg/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'niko',
-    description: ' By:? - Anime: ',
+    title: 'Niko',
+    description: ' By:? - Fuente: Oneshot ',
     imageUrl: 'https://64.media.tumblr.com/5cef3b971d6af48401aaff703539d6eb/ab3fb9bff5cd10e3-b9/s1280x1920/51620cb35bec9c2141878ae9f2b849cc3a80f315.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1kbxkTgjtRfGa1xtE-Lpif9Xfu3Tu_zHU/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -727,8 +727,8 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1T07aFu4ItfhP8eLzPFTIpkjDuQoatP87/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'nako-chan',
-    description: ' By:? - Anime: ',
+    title: 'Nako Sunao',
+    description: ' By:? - Anime: Hitoribocci',
     imageUrl: 'https://64.media.tumblr.com/7a5ddfa313e03f591be60e6ec6469647/ab3fb9bff5cd10e3-2d/s1280x1920/e871317ea9869a7805f8412d0d5fde33b7ccf320.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1bat9Fisgdax3RV7PMhTmtm9gfGqdv0yN/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -746,7 +746,7 @@ export const renders = [
   },
   {
     title: 'Lucína',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Fire Emblem ',
     imageUrl: 'https://64.media.tumblr.com/a322d663ba9bd91b985540e65f1a984f/ab3fb9bff5cd10e3-2f/s1280x1920/acf551197ace613841a7b19729fd879be3f6da6b.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1vOBAJtgHu4fY09W87OotdvFb5e3Ezp5H/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -782,7 +782,7 @@ export const renders = [
   },
   {
     title: 'Kuro Usagi ',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Mondaiji Tachi ga Isekai Kara Kuru Sou Desu Yo?',
     imageUrl: 'https://64.media.tumblr.com/6275df490a4c14118a3d9c4b97f2fd4c/ab3fb9bff5cd10e3-35/s1280x1920/dbd37de442d60b3575332d5cc65008de18441ab2.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1x_WDU-AVtdXPFWiMRi5DcFgd6Ev07CmG/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -830,19 +830,19 @@ export const renders = [
   },
   {
     title: ' Jennifer Satou ',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: The Money of Soul',
     imageUrl: 'https://64.media.tumblr.com/de2a9798286c701b7993c542728e2906/f5c0ff614b64579d-6a/s1280x1920/40b44d405fa3edaaa8889b8d35b59ca58011df8a.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1yU2F2mGVxHnw5DxL0bShuXwEE4l7VACC/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: ' Isaac Westcott ',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Date a Live',
     imageUrl: 'https://64.media.tumblr.com/003a14341650fda65346b359ce81c877/f5c0ff614b64579d-46/s1280x1920/7aa3628e16852dfc46032ef536a854379e343800.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1Zk1Lu8O0EUxKhTbaOo_c0B0WZNMP2lNj/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: ' Illyasviel Einzbern ',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Fate/stay night',
     imageUrl: 'https://64.media.tumblr.com/4fc3ec89b8c1fb23d866dbe8ba58fbc4/f5c0ff614b64579d-61/s1280x1920/a361fa4a90f026cef2da64a5f1262480523b09f4.jpg',
     downloadUrl: ' https://drive.google.com/file/d/10L5895ZdWEmSmvvve03Ec1EpPgRd06of/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -860,7 +860,7 @@ export const renders = [
   },
   {
     title: ' Homura ',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Madoka Magica',
     imageUrl: 'https://64.media.tumblr.com/6191b0f5127cf6354fe4e3e5d4bbb86d/f5c0ff614b64579d-3d/s1280x1920/a55c9347ca14e73b44970a7ccf658b94b47e5262.jpg',
     downloadUrl: ' https://drive.google.com/file/d/15yRjzWOAWwyuiE4AnlUhv3YoBeMitS83/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -896,7 +896,7 @@ export const renders = [
   },
   {
     title: ' Emperatriz ',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Busou Shoujo Machiavellianism',
     imageUrl: 'https://64.media.tumblr.com/6c3d42e5d5e300256aeb356a22cc7292/f5c0ff614b64579d-73/s1280x1920/c1d791b5165d62caddc8f52580385e66c91461de.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1Bo4wFRvlYUwryDFzYxIVeMQ3InUiYVsW/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -920,7 +920,7 @@ export const renders = [
   },
   {
     title: 'Asuha Chigusa',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Project Qualidea',
     imageUrl: 'https://64.media.tumblr.com/a26804a59b7253e1a22354b8fb8bc382/f5c0ff614b64579d-2f/s1280x1920/c5c70f1138486258d8ae186a1ec89b6a22afbd3f.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1fA7FkMsKIyzR3YTkEgRsd-Xq1A_nF6tn/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -932,7 +932,7 @@ export const renders = [
   },
   {
     title: 'Asagi',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Disgaea',
     imageUrl: 'https://64.media.tumblr.com/ae427be8cda2ba986497de7b34931a4c/f5c0ff614b64579d-bd/s1280x1920/df645e88a317749b1729a934e4360546446dde43.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1-Kxw5aRrwCdOmn0R7Q88bLb9Duox64_j/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -944,25 +944,25 @@ export const renders = [
   },
   {
     title: 'AntiSpiral',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Tengen Toppa Gurren-Lagann',
     imageUrl: 'https://64.media.tumblr.com/e9d0a53d58ac52eae5449f582ac89f0e/f5c0ff614b64579d-ae/s1280x1920/032047b5b2ea385b601e11613cdb395a58fd5861.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Mz9dDgVdNJ-EvMW9dhaP5llKXlM9rhdr/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Alina Gray',
-    description: ' By:? - Anime: ?',
+    description: ' By:? - Anime: Madoka Magica',
     imageUrl: 'https://64.media.tumblr.com/1be85130ae392e107529c0154d60ab4e/f5c0ff614b64579d-30/s1280x1920/c14fdefc000aeea7b06fb1be5d9d9159738c66dd.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1G6XX6b4WBAoc5rQNA6-gOcc8jPWsrDoz/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Alektra Maria',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Cross Ange',
     imageUrl: 'https://64.media.tumblr.com/6bedc713817b4ad76e145b8a76483531/f5c0ff614b64579d-06/s1280x1920/b281af0d38a0e8b9ae4f00f5f9e24827298a56ab.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1siWDRwuJi7pUXYryqJOwkfASZt9Ak50K/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Akatsuki',
-    description: ' By:? - Anime: ',
+    description: ' By:? - Anime: Long Horizon',
     imageUrl: 'https://64.media.tumblr.com/1384a4a58b40cab69a6c5065c066720b/f5c0ff614b64579d-9f/s1280x1920/0dedd92ac18ed153cbdf4dcbd0232cd102754c82.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1mxr2PAI2JUGWqcrICZlBv8qeT0aK-hlY/view?usp=sharing', // Reemplaza con tu enlace real
   },
