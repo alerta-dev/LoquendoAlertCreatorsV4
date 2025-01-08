@@ -102,25 +102,31 @@ export const plugins = [
   },
   {
     title: 'BCC Plugins',
-    description: 'Plugin de ecualización profesional',
+    description: 'Plugin para Sony Vegas/Premier',
     imageUrl: 'https://64.media.tumblr.com/ca5436ec67f5fad3ef60a773e0ac8a24/0078f27567a000f1-5f/s1280x1920/e727e2edc7aade383ee0ea1f26d3a4d9e8c07662.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1iNqneEjKFh_GycD5XbihoQzukrw9JnnO/view?usp=sharing', // Reemplaza con tu enlace real
   },
     {
     title: 'Universe FX',
-    description: 'Plugin de ecualización profesional',
+    description: 'Plugin para Sony Vegas/Premier',
     imageUrl: 'https://64.media.tumblr.com/587172cf1a1b366f90ec47d5772b8cfc/0078f27567a000f1-e7/s1280x1920/0c81ec17e3e58066b50a299fa437c2fa72e8f27b.pnj',
     downloadUrl: 'https://www.mediafire.com/file/jnkwe9rpdj9torn/UNI_PLUGIN.rar/file', // Reemplaza con tu enlace real
   },
     {
     title: 'Magic Bullet Looks',
-    description: 'Plugin de ecualización profesional',
+    description: 'Plugin para Sony Vegas/Premier',
     imageUrl: 'https://64.media.tumblr.com/a679c9d5f4e5cf3fab7d5d4202d16a57/0078f27567a000f1-92/s1280x1920/3b1975573ae4a006ceb74286908bf2f50e15017a.pnj',
     downloadUrl: 'https://www.mediafire.com/file/18nl583phh8e6a1/Magic+Bullet+Looks.rar', // Reemplaza con tu enlace real
   },
     {
     title: 'RSMB FX',
-    description: 'Plugin de ecualización profesional',
+    description: 'Plugin para Sony Vegas/Premier',
+    imageUrl: 'https://64.media.tumblr.com/ca629ed5feb73aa03f71028c9f14780f/0078f27567a000f1-10/s1280x1920/d23685abfd1fb56e04399d33068e99cdb6120107.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/2prp2kvgsw4yl5r/RSMB_SV.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'IGNITE 2021',
+    description: 'Plugin para Sony Vegas/Premier',
     imageUrl: 'https://64.media.tumblr.com/ca629ed5feb73aa03f71028c9f14780f/0078f27567a000f1-10/s1280x1920/d23685abfd1fb56e04399d33068e99cdb6120107.pnj',
     downloadUrl: 'https://www.mediafire.com/file/2prp2kvgsw4yl5r/RSMB_SV.rar/file', // Reemplaza con tu enlace real
   },
