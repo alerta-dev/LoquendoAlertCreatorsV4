@@ -50,16 +50,40 @@ export const programs = [
   downloadUrl: 'https://www.mediafire.com/file/yp0f1r4j0d6r21b/WIN_APS_V23.5.0.669_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
+    title: 'Adobe After Effects CS5',
+    description: 'Programa de edición de video cinematografico',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
+    downloadUrl: 'https://www.mediafire.com/download/8bsb5b7tidcknsk/AfterEffects+CS5+.+Emprice.rar', // Reemplaza con tu enlace real
+  },
+  {
     title: 'After Effects 2019',
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
     downloadUrl: 'https://www.mediafire.com/file/f3y1gzrcovyq9dh/Adobe+After+Effects+cc+2019.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Adobe After Effects CS5',
-    description: 'Programa de edición de video cinematografico',
+    title: 'After Effects 2020',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
-    downloadUrl: 'https://www.mediafire.com/download/8bsb5b7tidcknsk/AfterEffects+CS5+.+Emprice.rar', // Reemplaza con tu enlace real
+    downloadUrl: 'https://www.mediafire.com/file/j3yd5l42is8ukcb/WIN_AAE_V17.7.0.45_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'After Effects 2021',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/tj269xrrx4tzso5/WIN_AAE_V18.4.1.4_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'After Effects 2022',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/d9qd6h6ghnbn5u2/WIN_AAE_V22.6.0.64_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'After Effects 2023',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/ohfv2ixhcjsdmsc/WIN_AAE_V23.5.0.52_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Sony Vegas Pro 10',
@@ -111,25 +135,25 @@ export const programs = [
   },
   {
     title: 'Adobe Premier 2020',
-    description: 'contraseña: www.artistapirata.com',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://www.mediafire.com/file/hcjo00k3pqyx2xv/WIN_APP_V14.9.0.52_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Adobe Premier 2021',
-    description: 'contraseña: www.artistapirata.com',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://www.mediafire.com/file/4y56b8a4q331s91/WIN_APR_V15.4.1.6_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Adobe Premier 2022',
-    description: 'contraseña: www.artistapirata.com',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://www.mediafire.com/file/qs365zx4kjnpfhf/WIN_APR_V22.6.2.2_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Adobe Premier 2023',
-    description: 'contraseña: www.artistapirata.com',
+    description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
