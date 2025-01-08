@@ -853,19 +853,19 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1a5i1FPuXl-fPLJXqZ35wWomoBRgQMsua/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' IF ',
+    title: 'IF',
     description: ' By:? - Anime: Choujigen Game Neptune The Animation ',
     imageUrl: 'https://64.media.tumblr.com/d6b07c06af3ae7c692b3405a4d3c4b77/f5c0ff614b64579d-9e/s1280x1920/35f263f59c46976373cbbc6ee04a9053760b9125.jpg',
     downloadUrl: ' https://drive.google.com/file/d/11OX_iZUpLijMXZ77TjQ0JpGqwV0Tv2d2/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Homura ',
+    title: 'Homura',
     description: ' By:? - Anime: Madoka Magica',
     imageUrl: 'https://64.media.tumblr.com/6191b0f5127cf6354fe4e3e5d4bbb86d/f5c0ff614b64579d-3d/s1280x1920/a55c9347ca14e73b44970a7ccf658b94b47e5262.jpg',
     downloadUrl: ' https://drive.google.com/file/d/15yRjzWOAWwyuiE4AnlUhv3YoBeMitS83/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Hajime Nagumo ',
+    title: 'Hajime Nagumo',
     description: ' By:? - Anime: ',
     imageUrl: 'https://64.media.tumblr.com/6844ab7e20b3f7cc667de9c4755ba7e5/f5c0ff614b64579d-e6/s1280x1920/e35feba056842d05820bd30dd13254844b68caf2.jpg',
     downloadUrl: ' https://drive.google.com/file/d/161HOFOX_0Wpg7w6fUDRinHUOrOB8vORj/view?usp=sharing ', // Reemplaza con tu enlace real
@@ -895,7 +895,7 @@ export const renders = [
     downloadUrl: ' https://drive.google.com/file/d/12JQ9BSOiVAh35HEKHY_zdqttMGF57pJw/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Emperatriz ',
+    title: 'Emperatriz',
     description: ' By:? - Anime: Busou Shoujo Machiavellianism',
     imageUrl: 'https://64.media.tumblr.com/6c3d42e5d5e300256aeb356a22cc7292/f5c0ff614b64579d-73/s1280x1920/c1d791b5165d62caddc8f52580385e66c91461de.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1Bo4wFRvlYUwryDFzYxIVeMQ3InUiYVsW/view?usp=sharing ', // Reemplaza con tu enlace real
@@ -908,13 +908,13 @@ export const renders = [
   },
   {
     title: 'Dazai',
-    description: ' By:? - Anime: Bungo Stray Dogs',
+    description: ' By:MrLoreMafia - Anime: Bungo Stray Dogs',
     imageUrl: 'https://64.media.tumblr.com/d80b6bf66f57ec89461dd423d542927d/f5c0ff614b64579d-05/s1280x1920/304ba616aa5948e2d8ff962c6aa509ac48004969.jpg',
     downloadUrl: 'https://drive.google.com/file/d/18N3NP79N7ZS1M58Av24GflxaxGwNY-bh/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Bisco Akaboshi y Milo Nekoyanagi',
-    description: ' By:? - Anime: Sabikui Bisco ',
+    description: ' By:Kuzer - Anime: Sabikui Bisco ',
     imageUrl: 'https://64.media.tumblr.com/10cbbaeeb40d17287c1aeb6c33435744/f5c0ff614b64579d-8f/s1280x1920/645c77e49c5478c1ab2a842ac12f8a8411d5c865.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -931,8 +931,8 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1xG6_UVfjSSIvmNBosfFzHU31MzCCU-oj/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Asagi',
-    description: ' By:? - Anime: Disgaea',
+    title: 'Asagi Asagiri',
+    description: ' By: Matt Morgan - Anime: Disgaea',
     imageUrl: 'https://64.media.tumblr.com/ae427be8cda2ba986497de7b34931a4c/f5c0ff614b64579d-bd/s1280x1920/df645e88a317749b1729a934e4360546446dde43.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1-Kxw5aRrwCdOmn0R7Q88bLb9Duox64_j/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -950,7 +950,7 @@ export const renders = [
   },
   {
     title: 'Alina Gray',
-    description: ' By:? - Anime: Madoka Magica',
+    description: ' By: Matt Morgan- Anime: Madoka Magica',
     imageUrl: 'https://64.media.tumblr.com/1be85130ae392e107529c0154d60ab4e/f5c0ff614b64579d-30/s1280x1920/c14fdefc000aeea7b06fb1be5d9d9159738c66dd.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1G6XX6b4WBAoc5rQNA6-gOcc8jPWsrDoz/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -968,7 +968,7 @@ export const renders = [
   },
   {
     title: 'Akko',
-    description: ' By:? - Anime: Little Witch Academia ',
+    description: ' By: MrLoreMafia - Anime: Little Witch Academia ',
     imageUrl: 'https://64.media.tumblr.com/5b16f0f04e0888bf44da39071aef010d/f5c0ff614b64579d-cf/s1280x1920/d12ed7b67ccffce121618c6156e6fc9b11a3cad0.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1N_n9ZavXRNVA_dPd_PXQy8t0UHAmDHYa/view?usp=sharing', // Reemplaza con tu enlace real
   },
