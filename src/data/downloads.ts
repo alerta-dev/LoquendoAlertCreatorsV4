@@ -526,31 +526,31 @@ export const backgrounds = [
   {
     title: 'Fondos de Shaddy',
     description: 'Pack de Fondos de anime de ciudades y habitaciones',
-    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/FondosShaddy.png',
+    imageUrl: 'https://64.media.tumblr.com/e1b75e991771aa50d43f893ccd72234e/e8c38e19b757a4d8-26/s2048x3072/554143e9aaad4d7ef014cfacdcebb37e50e853d4.pnj',
     downloadUrl: 'https://www.mediafire.com/file/e0lsqwrv575qs88/Fondos_para_videos.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Fondos del FOS 1',
     description: 'Pack de Fondos medievales de anime de ciudades y habitaciones',
-    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos1Fondos.png',
+    imageUrl: 'https://64.media.tumblr.com/a136950761368d0faed1c22c8fbafd18/e8c38e19b757a4d8-ba/s2048x3072/0ec3ad38ff2fbd83674ce51b5b402c7d1f2c5f3e.pnj',
     downloadUrl: 'https://mega.nz/folder/6M5xnTRL#P7BJO5V9wQoW9S5oVxR-6g/folder/jEh1xbiA', // Reemplaza con tu enlace real
   },
   {
     title: 'Fondos del FOS 2',
     description: 'Pack de Fondos de anime futurista de ciudades y habitaciones',
-    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos2Fondoss.png',
+    imageUrl: 'https://64.media.tumblr.com/10444a0f19e1c9c494695ee28f46772f/e8c38e19b757a4d8-77/s2048x3072/b12788d928e10328f5e17b3dc82e6e14b90adea2.pnj',
     downloadUrl: 'https://mega.nz/folder/bUI2jBqR#oxsqGCeBp8MJ3Hv1fR-s6A/folder/mJBgGBCQ', // Reemplaza con tu enlace real
   },
   {
     title: 'Fondos Niki',
     description: 'Pack de Fondos de anime de ciudades y habitaciones',
-    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos2Fondoss.png',
+    imageUrl: 'https://64.media.tumblr.com/e1b75e991771aa50d43f893ccd72234e/e8c38e19b757a4d8-26/s2048x3072/554143e9aaad4d7ef014cfacdcebb37e50e853d4.pnj',
     downloadUrl: 'https://www.mediafire.com/file/40xkqciavtipjfb/Fondos_sacados_por_niki.rar/file', // Reemplaza con tu enlace real
   },
    {
     title: 'Fondos Pivix',
     description: 'By: Luis Friends - Pack de Fondos de anime de ciudades y habitaciones',
-    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos2Fondoss.png',
+    imageUrl: 'https://64.media.tumblr.com/e1b75e991771aa50d43f893ccd72234e/e8c38e19b757a4d8-26/s2048x3072/554143e9aaad4d7ef014cfacdcebb37e50e853d4.pnj',
     downloadUrl: 'https://drive.google.com/file/d/150vAhXx436GomH_g1widK0-tSaNZlcuz/view?usp=sharing', // Reemplaza con tu enlace real
   },
 ];
