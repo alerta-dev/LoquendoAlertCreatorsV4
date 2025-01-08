@@ -544,7 +544,7 @@ export const backgrounds = [
   {
     title: 'Fondos Niki',
     description: 'Pack de Fondos de anime de ciudades y habitaciones',
-    imageUrl: 'https://64.media.tumblr.com/e1b75e991771aa50d43f893ccd72234e/e8c38e19b757a4d8-26/s2048x3072/554143e9aaad4d7ef014cfacdcebb37e50e853d4.pnj',
+    imageUrl: 'https://64.media.tumblr.com/742791fa240ca217718a8ec1e52073e8/44dabb06e02c41ad-60/s2048x3072/4b0a725885bdee615f7c6f0816c9a4acb3532d13.pnj',
     downloadUrl: 'https://www.mediafire.com/file/40xkqciavtipjfb/Fondos_sacados_por_niki.rar/file', // Reemplaza con tu enlace real
   },
    {
