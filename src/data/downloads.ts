@@ -460,9 +460,9 @@ export const renders = [
     downloadUrl: 'https://www.mediafire.com/file/ynsqh3vht4446o3/Derieri.zip/file?fbclid=IwAR1nzcu7yI7s0ReB2p_RJVxudz9k-s5emX9fRXvvIOOGfYUrG1mVH96tpo8', // Reemplaza con tu enlace real
   },
   {
-    title: 'Seiya',
+    title: 'Seiya Riuguin',
     description: 'By:? - Anime: Isekai Cuartet',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/28%20-%20la%20tipa%20lol.png',
+    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/36%20-%20el%20aweonao.png',
     downloadUrl: 'https://www.mediafire.com/file/eyu4qzj8k9grgm5/El_heroe_cauteloso.zip/file?fbclid=IwAR0jUxrX0MmWSqMLac5wN3xY951Maih36nB9Ahdv9Z7peROMRBDMyuq2tnw', // Reemplaza con tu enlace real
   },
   {
