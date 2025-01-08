@@ -550,7 +550,7 @@ export const backgrounds = [
    {
     title: 'Fondos Pivix',
     description: 'By: Luis Friends - Pack de Fondos de anime de ciudades y habitaciones',
-    imageUrl: 'https://64.media.tumblr.com/e1b75e991771aa50d43f893ccd72234e/e8c38e19b757a4d8-26/s2048x3072/554143e9aaad4d7ef014cfacdcebb37e50e853d4.pnj',
+    imageUrl: 'https://64.media.tumblr.com/fce4c939a62370ec2f09f2aea672dfc2/9f49400a412459c2-de/s2048x3072/1190f5b37ec9af3d1d78b97b1ae36c3dc748e79b.pnj',
     downloadUrl: 'https://drive.google.com/file/d/150vAhXx436GomH_g1widK0-tSaNZlcuz/view?usp=sharing', // Reemplaza con tu enlace real
   },
 ];
