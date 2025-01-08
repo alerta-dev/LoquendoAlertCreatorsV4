@@ -281,7 +281,7 @@ export const renders = [
   },
     {
     title: 'Elma Bella',
-    description: 'By:Dark Zero - Anime: Kobayashi mi dragon',
+    description: 'By:Dark Zero - Anime: Kobayashi no maid dragon',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/7%20-%20Elma%20kobayashi%20maid%20dragon.png',
     downloadUrl: 'https://mega.nz/file/Keo1TACD#PElBU0bhkJAHInztJPp1ApDpJXHf_57I-eI-pnbBwl0', // Reemplaza con tu enlace real
   },
@@ -383,13 +383,13 @@ export const renders = [
   },
   {
     title: 'Maho',
-    description: 'By:Raymanalex12 - Anime: Nagatoro',
+    description: 'By:Raymanalex12 - Anime: Steins:Gate',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/24%20-%20chicapeluchexd.png',
     downloadUrl: 'https://www.mediafire.com/file/3xi61matjdgh0t1/Maho+Steins+gate+Renders+By+Raymanalex12.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Ryuko',
-    description: 'By:Dark Zero - Anime: Nagatoro',
+    description: 'By:Dark Zero - Anime: Kill La Kill; más adelante hay otro diferente',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/24%20-%20mi%20novia.png',
     downloadUrl: 'https://mega.nz/file/sg5CzLTI#Em7V55iYFzaB0dLyJzb4gOa9sugo_hp-c-Bo9WfZ7Zw', // Reemplaza con tu enlace real
   },
@@ -436,8 +436,8 @@ export const renders = [
     downloadUrl: 'https://www.mediafire.com/file/fnzmhl153c020j0/Sakamoto_%28Gato%29.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Sumi',
-    description: 'By:Raymanalex12 - Anime: Rentadas',
+    title: 'Sumi Sakurasawa',
+    description: 'By:Raymanalex12 - Anime: Rent a Girlfriend',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/32%20-%20el%20trapo%20del%20salon.png',
     downloadUrl: 'https://www.mediafire.com/file/wpze8oakid5agwv/SUMI+SAKURASAWA+%28Por+raymanalex+12+para+Loquendo+alert%29.rar/file?fbclid=IwAR2eVbU4TrwUyUaXUe0PlFZsLkvI10AxPeskrarP7_9bJ71NVgZ6ylniW4M', // Reemplaza con tu enlace real
   },
@@ -485,7 +485,7 @@ export const renders = [
   },
   {
     title: 'Touma',
-    description: 'By:? - Anime: Fire Emblem',
+    description: 'By:? - Anime: T.M.N.',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/40%20-%20wachin%20magico.png',
     downloadUrl: 'https://mega.nz/folder/YrAGzIZT#rKusCMaGfXkdx4orB4sQ0g', // Reemplaza con tu enlace real
   },
