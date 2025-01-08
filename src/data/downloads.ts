@@ -1,22 +1,35 @@
 // Programas
 export const programs = [
   {
-  title: 'Adobe Photoshop 2020',
-  description: 'Software profesional de edición de imágenes',
-  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
-  downloadUrl: 'https://drive.google.com/file/d/1b6JPsIwd7XQGfygDWQyrLjCDcyds2c6O/view?usp=sharing'
-  },
-  {
   title: 'Adobe Photoshop 2018',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
   downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Adobe Premier 2023',
-    description: 'contraseña: www.artistapirata.com',
-    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
-    downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  title: 'Adobe Photoshop 2019',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/os10tbcyzp1khd3/WIN_APS_2K19_V20_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  
+  {
+  title: 'Adobe Photoshop 2020',
+  description: 'Software profesional de edición de imágenes',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://drive.google.com/file/d/1b6JPsIwd7XQGfygDWQyrLjCDcyds2c6O/view?usp=sharing'
+  },
+  {
+  title: 'Adobe Photoshop 2021',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/kew510adp462kyy/WIN_APS_V22.5.8.998_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+  title: 'Adobe Photoshop 2022',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/yp0f1r4j0d6r21b/WIN_APS_V23.5.0.669_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Loquendo TTS Director',
@@ -131,6 +144,36 @@ export const programs = [
     description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
     imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+  title: 'Adobe Ilustrator 2019',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/2dl03gyj62tknn8/WIN_AI_2K19_V23.1_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+  title: 'Adobe Ilustrator 2020',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/g7sgg5fmjamqjrl/AI24.3.0.WIN.AP.ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+  title: 'Adobe Ilustrator 2021',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/mma6fhd8bcbmbkw/WIN_AAI_V25.4.1.498_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+  title: 'Adobe Ilustrator 2022',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/r4pb4iocxtmkapm/WIN_AAI_V26.5.0.223_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+  title: 'Adobe Ilustrator 2023',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://www.mediafire.com/file/5rl1r0jq3yxqa8n/WIN_AAI_V27.1.0.189_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
 ];
 
