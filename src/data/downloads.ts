@@ -438,6 +438,12 @@ export const backgrounds = [
     imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos2Fondoss.png',
     downloadUrl: 'https://www.mediafire.com/file/40xkqciavtipjfb/Fondos_sacados_por_niki.rar/file', // Reemplaza con tu enlace real
   },
+   {
+    title: 'Fondos Pivix',
+    description: 'By: Luis Friends - Pack de Fondos de anime de ciudades y habitaciones',
+    imageUrl: 'https://loquendoalertcreators.github.io/Imagenes/Fos2Fondoss.png',
+    downloadUrl: 'https://drive.google.com/file/d/150vAhXx436GomH_g1widK0-tSaNZlcuz/view?usp=sharing', // Reemplaza con tu enlace real
+  },
 ];
 
 // Sonidos
