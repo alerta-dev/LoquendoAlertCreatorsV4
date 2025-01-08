@@ -69,13 +69,13 @@ export const programs = [
   {
     title: 'Topaz GigaPixel AI',
     description: 'Programa de para escalar imagenes en buena calidad',
-    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
+    imageUrl: 'https://64.media.tumblr.com/4d4039ed4e4426ec3de6c0116f4ddebd/0b83ea840ef418a8-b6/s1280x1920/6d367105bb2756632d2522fcda1a3770e8386f89.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1J3iiilN6Hh6jSAJiE4XiwrivIlf40z-6/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Movavi Video Converter 14',
     description: 'Programa para convertir videos a diferentes formatos y sacar capturas',
-    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
+    imageUrl: 'https://64.media.tumblr.com/af7afc9efbe60cf62c0c6b3d40e9835c/0b83ea840ef418a8-9b/s1280x1920/4c28c604a62913ee90ba5d197dcc22c385f6c7d3.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
@@ -127,7 +127,7 @@ export const plugins = [
   {
     title: 'IGNITE 2021',
     description: 'Plugin para Sony Vegas/Premier',
-    imageUrl: 'https://64.media.tumblr.com/ca629ed5feb73aa03f71028c9f14780f/0078f27567a000f1-10/s1280x1920/d23685abfd1fb56e04399d33068e99cdb6120107.pnj',
+    imageUrl: 'https://64.media.tumblr.com/e86ae718d31c2cbfff2867574809ea96/0b83ea840ef418a8-25/s1280x1920/a9ae1fc0235d95dfa43ad9067a6f735dc61aca84.pnj',
     downloadUrl: 'https://www.mediafire.com/file/2prp2kvgsw4yl5r/RSMB_SV.rar/file', // Reemplaza con tu enlace real
   },
 ];
