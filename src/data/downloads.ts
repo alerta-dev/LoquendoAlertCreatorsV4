@@ -37,6 +37,12 @@ export const programs = [
     downloadUrl: 'https://www.mediafire.com/file/33r0ypv8d959azk/Sony++Vegas+pro+11+portable.rar', // Reemplaza con tu enlace real
   },
   {
+    title: 'Sony Vegas 12 (Portable)',
+    description: 'Programa de edición de video cinematografico',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1hveo0C96r3sKiLJ9aWsOwws40ksUjSzT/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
     title: 'Sony Vegas Pro 14',
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
