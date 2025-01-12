@@ -25,6 +25,18 @@ export const programs = [
   downloadUrl: 'https://drive.google.com/file/d/1CenPJECOvL-TS8OZsQuPHpe0Y8MJjk5t/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
+  title: 'FL Studio 21',
+  description: 'Software profesional de edición de musica',
+  imageUrl: 'https://64.media.tumblr.com/8893da00a0ff9277b6f3e2f1f2263c56/becc2ce85e6e75a8-4a/s1280x1920/567c7ac75a88f5e7a0ffc25f1542b875e0e01f37.pnj',
+  downloadUrl: 'https://drive.google.com/file/d/1EA6_9qgr86CctRZm3KidZxt0nTCSqxEk/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+  title: 'Adobe Media Encoder CC 2019',
+  description: 'Software profesional de edición de musica',
+  imageUrl: 'https://64.media.tumblr.com/f14afc8f25a5845e940ad93dc037c5c7/becc2ce85e6e75a8-3d/s1280x1920/f154398dad2630b8fe652f4626998769641dc64a.pnj',
+  downloadUrl: 'https://drive.google.com/file/d/1HTroH5U7NuCfTANn7CGW7rzS2TVuooMg/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
   title: 'Adobe Photoshop 2018',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
@@ -192,18 +204,6 @@ export const programs = [
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/d28d7a1e479b4cebb3bb19f97ef69ab5/1d2755acf326a6f0-e6/s1280x1920/2b231e537f2c538707648c4b72c14980b78242ee.pnj',
   downloadUrl: 'https://www.mediafire.com/file/5rl1r0jq3yxqa8n/WIN_AAI_V27.1.0.189_AP_ZNT.rar/file', // Reemplaza con tu enlace real
-  },
-  {
-  title: 'FL Studio 21',
-  description: 'Software profesional de edición de musica',
-  imageUrl: 'https://64.media.tumblr.com/8893da00a0ff9277b6f3e2f1f2263c56/becc2ce85e6e75a8-4a/s1280x1920/567c7ac75a88f5e7a0ffc25f1542b875e0e01f37.pnj',
-  downloadUrl: 'https://drive.google.com/file/d/1EA6_9qgr86CctRZm3KidZxt0nTCSqxEk/view?usp=sharing', // Reemplaza con tu enlace real
-  },
-  {
-  title: 'Adobe Media Encoder CC 2019',
-  description: 'Software profesional de edición de musica',
-  imageUrl: 'https://64.media.tumblr.com/f14afc8f25a5845e940ad93dc037c5c7/becc2ce85e6e75a8-3d/s1280x1920/f154398dad2630b8fe652f4626998769641dc64a.pnj',
-  downloadUrl: 'https://drive.google.com/file/d/1HTroH5U7NuCfTANn7CGW7rzS2TVuooMg/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
   title: 'QuickTime 7.7.9',
