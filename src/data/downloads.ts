@@ -1056,10 +1056,10 @@ export const sounds = [
 // Materiales
 export const materials = [
   {
-    title: 'Materiales PBR',
+    title: 'Caras para walfas',
     description: 'Pack de materiales realistas para 3D',
-    imageUrl: 'https://images.unsplash.com/photo-1567225557594-88d73e55f2cb?auto=format&fit=crop&w=800&q=80',
-    downloadUrl: 'https://example.com/download/materiales-pbr', // Reemplaza con tu enlace real
+    imageUrl: 'https://64.media.tumblr.com/0c8b94ac84ef8084a03a614b56a8954a/5a589a6122a3b6d7-0a/s1280x1920/ddb23570ea7702030ecb57d7f07afeefa321fa03.pnj',
+    downloadUrl: 'https://www.mediafire.com/file/uz1kap15z5911tm/Caras+para+Renders.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Texturas Arquitectónicas',
