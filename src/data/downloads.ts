@@ -32,7 +32,7 @@ export const programs = [
   },
   {
   title: 'Adobe Media Encoder CC 2019',
-  description: 'Software profesional de edición de musica',
+  description: 'Software profesional para codificar videos',
   imageUrl: 'https://64.media.tumblr.com/f14afc8f25a5845e940ad93dc037c5c7/becc2ce85e6e75a8-3d/s1280x1920/f154398dad2630b8fe652f4626998769641dc64a.pnj',
   downloadUrl: 'https://drive.google.com/file/d/1HTroH5U7NuCfTANn7CGW7rzS2TVuooMg/view?usp=sharing', // Reemplaza con tu enlace real
   },
