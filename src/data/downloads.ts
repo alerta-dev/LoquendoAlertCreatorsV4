@@ -207,7 +207,7 @@ export const programs = [
   },
   {
   title: 'QuickTime 7.7.9',
-  description: 'Software profesional de edición de musica',
+  description: 'Software profesional para codificar videos',
   imageUrl: 'https://64.media.tumblr.com/377665514841d42ff212b02981d6f674/becc2ce85e6e75a8-f9/s1280x1920/3ca12219d85ea4cfe266c9cdee075c1f58ca0268.pnj',
   downloadUrl: 'https://drive.google.com/file/d/1GqIiDSWo4R0UrtQUGkCotcl-XjQ4v1JE/view?usp=sharing', // Reemplaza con tu enlace real
   },
