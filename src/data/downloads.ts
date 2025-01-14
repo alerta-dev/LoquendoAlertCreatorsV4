@@ -258,6 +258,12 @@ export const plugins = [
     imageUrl: 'https://64.media.tumblr.com/e86ae718d31c2cbfff2867574809ea96/0b83ea840ef418a8-25/s1280x1920/a9ae1fc0235d95dfa43ad9067a6f735dc61aca84.pnj',
     downloadUrl: 'https://www.mediafire.com/file/2prp2kvgsw4yl5r/RSMB_SV.rar/file', // Reemplaza con tu enlace real
   },
+    {
+    title: 'VP Flow',
+    description: 'Plugin para Sony Vegas/Premier, para crear curvas entre fotogramas. A partir de vegas 14',
+    imageUrl: 'https://64.media.tumblr.com/e86ae718d31c2cbfff2867574809ea96/0b83ea840ef418a8-25/s1280x1920/a9ae1fc0235d95dfa43ad9067a6f735dc61aca84.pnj',
+    downloadUrl: 'https://github.com/RatinFX/VegasProFlow/releases/download/1.7.0/VegasProFlow14-1.7.0.zip', // Reemplaza con tu enlace real
+  },
 ];
 
 // Renders
