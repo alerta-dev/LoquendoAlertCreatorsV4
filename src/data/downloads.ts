@@ -296,7 +296,7 @@ export const renders = [
     title: 'Bocchi',
     description: 'By: ? - Anime: Bocchi the Rock!',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/5%20-%20bocchi%20in%20the%20rock.png',
-    downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
+    downloadUrl: 'https://mega.nz/file/RuglkQSA#MXoAf-cBO0ywm_M_n0P6aZBXlxVegKLotGscYvzvTgU', // Reemplaza con tu enlace real
   },
     {
     title: 'Rias Gremory',
