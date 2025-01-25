@@ -276,7 +276,7 @@ export const renders = [
   },
   {
     title: 'Albedo',
-    description: 'By:Dark Zero - Anime: Overlord',
+    description: 'By:Dark Zero - Juego: Overlord',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
     downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
   },
@@ -492,13 +492,13 @@ export const renders = [
   },
   {
     title: 'Corrin',
-    description: 'By:? - Anime: Fire Emblem',
+    description: 'By:? - Juego: Fire Emblem',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/37%20-%20podersword.png',
     downloadUrl: 'https://mega.nz/folder/YrAGzIZT#rKusCMaGfXkdx4orB4sQ0g', // Reemplaza con tu enlace real
   },
   {
     title: 'Blyeth',
-    description: 'By:? - Anime: Fire Emblem',
+    description: 'By:? - Juego: Fire Emblem',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/38%20-%20la%20tipa%20tactica.png',
     downloadUrl: 'https://mega.nz/folder/YrYDRBKB#b01RJeURL54kz57SFPuZDA', // Reemplaza con tu enlace real
   },
@@ -516,7 +516,7 @@ export const renders = [
   },
   {
     title: 'Elesis',
-    description: 'By: Kaira - Anime: ElSword',
+    description: 'By: Kaira - Juego: ElSword',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/41%20-%20no%20c%20weeee%20x3.png',
     downloadUrl: 'https://www.mediafire.com/file/kmkebjovl38i9jx/Elesis_Renders.rar/file', // Reemplaza con tu enlace real
   },
@@ -578,7 +578,7 @@ export const renders = [
 
   {
     title: 'Usagi Saijonji',
-    description: ' By: Kuzer - Anime: Taimado Gakuen 35 Shiken',
+    description: ' By: KeyZer - Anime: Taimado Gakuen 35 Shiken ',
     imageUrl: 'https://64.media.tumblr.com/716f21dc392cb4900380a1421f1c6bf7/db8347b3c7f0b20c-9c/s1280x1920/140681ad75bc8e3b1099fa7fb1eb89f9a092274a.jpg',
     downloadUrl: 'https://drive.google.com/file/d/15H-xuV5WWqgHeDoxHPVLDbd5_q6gnsTg/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -621,7 +621,7 @@ export const renders = [
   },
   {
     title: 'Shiki Ryougi',
-    description: ' By:? - Anime: Kara no Kyoukai ',
+    description: ' By:MadPancho - Anime: Kara no Kyoukai ',
     imageUrl: 'https://64.media.tumblr.com/a7bd1228e38d76da9fa922fbd7e6b0d0/db8347b3c7f0b20c-db/s1280x1920/b2f9b07bd3aee60f01a95ac44fd536c4fa71e12a.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1iMRaIh_A2M-ObmWEHsXDG5lAXJCNqasd/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -711,7 +711,7 @@ export const renders = [
   },
   {
     title: 'Okada Izo',
-    description: ' By:? - Anime: Fade ',
+    description: ' By:? - Anime: Fate ',
     imageUrl: 'https://64.media.tumblr.com/98833aab832764f8cfd918c6101be8ee/ab3fb9bff5cd10e3-97/s1280x1920/14c85a2fb7f9cb5362e88b6ad597d7d59e6356e2.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Qfk_ocGZh2Pn2g00BqkEqiJDcDWkM6f6/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -735,7 +735,7 @@ export const renders = [
   },
   {
     title: 'Niko',
-    description: ' By:? - Fuente: Oneshot ',
+    description: ' By:? - Juego: Oneshot ',
     imageUrl: 'https://64.media.tumblr.com/5cef3b971d6af48401aaff703539d6eb/ab3fb9bff5cd10e3-b9/s1280x1920/51620cb35bec9c2141878ae9f2b849cc3a80f315.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1kbxkTgjtRfGa1xtE-Lpif9Xfu3Tu_zHU/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -771,7 +771,7 @@ export const renders = [
   },
   {
     title: 'Lucína',
-    description: ' By:? - Anime: Fire Emblem ',
+    description: ' By:Termor - Juego: Fire Emblem ',
     imageUrl: 'https://64.media.tumblr.com/a322d663ba9bd91b985540e65f1a984f/ab3fb9bff5cd10e3-2f/s1280x1920/acf551197ace613841a7b19729fd879be3f6da6b.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1vOBAJtgHu4fY09W87OotdvFb5e3Ezp5H/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -849,7 +849,7 @@ export const renders = [
   },
   {
     title: ' Jill ',
-    description: ' By:? - Anime:VALHALLA ',
+    description: ' By:? - Juego:VA-11 Hall-A ',
     imageUrl: 'https://64.media.tumblr.com/e91118a4c29d2a351811701ce5eb2cac/f5c0ff614b64579d-52/s1280x1920/2daac995ca23cc47f9e71efb712d76fda30e4e57.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1WufNUBLWgYS_A3blQHOjdHi_b4LdmGZN/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -927,7 +927,7 @@ export const renders = [
   },
   {
     title: 'Diluc',
-    description: ' By:? - Anime: Genshin Impact',
+    description: ' By:? - Juego: Genshin Impact',
     imageUrl: 'https://64.media.tumblr.com/fced8ed6f167b9f79d97d6beb249b8ea/f5c0ff614b64579d-09/s1280x1920/9e717c4373a62c850bd7c47c1c4f40d2c6418938.jpg',
     downloadUrl: 'https://drive.google.com/file/d/10GXPwYSvj6leSIrNrPlgtRkHREMI2Ok0/view?usp=sharing', // Reemplaza con tu enlace real
   },
