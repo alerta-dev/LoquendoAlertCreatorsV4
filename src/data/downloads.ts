@@ -545,8 +545,8 @@ export const renders = [
     downloadUrl: 'https://www.mediafire.com/file/d6q9cns5qc951w0/TUYU.zip/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Zed OBrien',
-    description: ' By:? - Anime: Kekkai Sensen',
+    title: 'Zed O Brien',
+    description: ' By:Zed - Anime: Kekkai Sensen',
     imageUrl: 'https://64.media.tumblr.com/8127cd190e090f2df578f9bb61e31d38/db8347b3c7f0b20c-dc/s1280x1920/378cd804eaaafcee1ca813f4b7632f709ed62e71.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1zVPqmTXUMN4yhAyg00tvS4HuCUS4dei2/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -585,7 +585,7 @@ export const renders = [
 
   {
     title: 'Thanatos',
-    description: ' By:? - Anime: Persona5 ',
+    description: ' By:Solfish - Anime: Persona3 ',
     imageUrl: 'https://64.media.tumblr.com/79373c59a3992ec7e57d1bdc32f311b3/db8347b3c7f0b20c-5f/s1280x1920/7fddca529517621d81f4c680c9752686e9a5cbc8.jpg',
     downloadUrl: 'https://drive.google.com/file/d/16hBZGbJCtwZa0rtPi5b7NZvEeALqLTMs/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -627,7 +627,7 @@ export const renders = [
   },
   {
     title: 'Albedo',
-    description: ' By:? - Anime: Genshin Impact ',
+    description: ' By:Zed  - Juego: Genshin Impact ',
     imageUrl: 'https://64.media.tumblr.com/a7c1eb6cf43b7404d3dd28c0e235a515/db8347b3c7f0b20c-ae/s1280x1920/573891c3e5a6cfc21e3b842a15c33effa78c48f0.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1EwN3OgCFvQ5CupVJXBD_T6EY1g4einKj/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -657,7 +657,7 @@ export const renders = [
   },
   {
     title: 'Rossiu Adai ',
-    description: ' By:? - Anime: Tengen Lagann',
+    description: ' By:KeyZer - Anime: Tengen Lagann',
     imageUrl: 'https://64.media.tumblr.com/d4e5569ea9136fba7eb8b36fb637ef8b/ab3fb9bff5cd10e3-0c/s1280x1920/0b9dd8fff97d3ae1765db347a6ed53a49ef2737c.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1FU5xW8lOCbwhkM_9oWhriyJVuUs5noHw/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -675,13 +675,13 @@ export const renders = [
   },
   {
     title: 'Reima Tenmyouji',
-    description: ' By:? - Anime: Taimado 35 Shiken',
+    description: ' By:KeyZer - Anime: Taimado 35 Shiken',
     imageUrl: 'https://64.media.tumblr.com/98a9d3e92f3818c3dc46fdf4fa697b5d/ab3fb9bff5cd10e3-c5/s1280x1920/38fe1ae7348ac161ed79908fd0005cfc8da076b6.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1pgoswPcx1JWyoUoynMrYt4KyOEeGQtZv/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Ratio',
-    description: ' By:? - Anime: Ratio - Hamatora  The Animation.',
+    description: ' By:Zed - Anime: Ratio - Hamatora  The Animation.',
     imageUrl: 'https://64.media.tumblr.com/e23f0680ae9777ae2a1ad38f4398689e/ab3fb9bff5cd10e3-17/s1280x1920/12656c7586fae45895af1b5ae376f1acd58fd7a8.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1y-koJb-rVv99SU_s2ViMGvIdYQ6ieaNL/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -699,7 +699,7 @@ export const renders = [
   },
   {
     title: 'Quinella',
-    description: ' By:? - Anime: S.A.O.: Alicization ',
+    description: ' By:KeyZer - Anime: S.A.O.: Alicization ',
     imageUrl: 'https://64.media.tumblr.com/0cb44a8f2b5f91499ba6eb8e1645b691/ab3fb9bff5cd10e3-7d/s1280x1920/3ed7be813224c241ac3814452f2d34fb25bd28ea.jpg',
     downloadUrl: 'https://drive.google.com/file/d/11mt73FPnjKivQPBjjgEbCq5l1VqO2e5X/view?usp=sharing', // Reemplaza con tu enlace real 
   },
@@ -717,13 +717,13 @@ export const renders = [
   },
   {
     title: 'Nyx Avatar',
-    description: ' By:? - Anime: Persona3 ',
+    description: ' By:Termor y LuisFriends - Anime: Persona3 ',
     imageUrl: 'https://64.media.tumblr.com/2c963027220d622f2f4a9844b794a946/ab3fb9bff5cd10e3-ea/s1280x1920/74b4cf9b8b70a27f79e69da8b243420ee7cd8d5d.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1yzGXoxEqKJWKPKzRZ89dLiRYaWIlWbAu/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Nova',
-    description: ' By:? - Anime: Uchuu Luluco ',
+    description: ' By:KeyZer - Anime: Uchuu Luluco ',
     imageUrl: 'https://64.media.tumblr.com/64b05cb8fdb56f341e879867f44d0f59/ab3fb9bff5cd10e3-16/s1280x1920/d919c00430043ca0267cc3c4a630ba58b2ba459b.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1IDcRa6zZqRAy8N0t-cVG2UWEqhEdJlI2/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -741,13 +741,13 @@ export const renders = [
   },
   {
     title: 'Neptunia',
-    description: ' By:? - Anime: Choujigen Game Neptune The Animation ',
+    description: ' By:KeyZer - Anime: Choujigen Game Neptune The Animation ',
     imageUrl: 'https://64.media.tumblr.com/253c331c1f7d0826d34fa9d932c273b2/ab3fb9bff5cd10e3-14/s1280x1920/aa1f97044a9f13df108d027dbc6bad79aa8784c3.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1uD4_JEjX8K7NDkBr0Cm8CDVjpeOexIFh/view?usp=sharing', // Reemplaza con tu enlace real
   }, 
   {
-    title: 'Nana lida',
-    description: ' By:? - Anime: Rail Wars. ',
+    title: 'Nana Iida',
+    description: ' By:KeyZer - Anime: Rail Wars. ',
     imageUrl: 'https://64.media.tumblr.com/396206b27cd721f0614c0921ee67153c/ab3fb9bff5cd10e3-3d/s1280x1920/0086da7f469d00a0125ff82e3ac37573121e4a38.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1T07aFu4ItfhP8eLzPFTIpkjDuQoatP87/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -759,13 +759,13 @@ export const renders = [
   },
   {
     title: 'Mujina',
-    description: ' By:? - Anime: SSSSDYNAZENON. ',
+    description: ' By:Zed - Anime: SSSSDYNAZENON. ',
     imageUrl: 'https://64.media.tumblr.com/88220dd3dcc408f726b98035c88102d6/ab3fb9bff5cd10e3-41/s1280x1920/019f899a6618cef642c55d0f3b9c902ad1f45563.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1DHI7F3syjM2WvD23FoKfyqw9CzWT3lnD/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Luluco',
-    description: ' By:? - Anime: Uchuu Patrol Luluco ',
+    description: ' By:KeyZer - Anime: Uchuu Patrol Luluco ',
     imageUrl: 'https://64.media.tumblr.com/93c8225862d297ee5506c713e24e45b6/ab3fb9bff5cd10e3-08/s1280x1920/d76b29a1f18a139a6b9700bee509541d930d6bbc.jpg',
     downloadUrl: 'https://drive.google.com/file/d/15ZWZ15BPpM4wiNfRSVGWtMUl19mEQJau/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -777,19 +777,19 @@ export const renders = [
   },
   {
     title: 'Lop',
-    description: ' By:? - Anime: Star Wars Vision.',
+    description: ' By:KeyZer - Anime: Star Wars Vision.',
     imageUrl: 'https://64.media.tumblr.com/980b37d305798f4f5227d0039857cc9e/ab3fb9bff5cd10e3-8d/s1280x1920/3fb20494f7536a0a13f1c5836fe7a15187174359.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1fZzVNFoOnuz0fkh1L2DVEeYme8srJbKY/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Lio Fotia',
-    description: ' By:? - Anime:Promare ',
+    description: ' By:Jimmy Mclovin - Anime:Promare ',
     imageUrl: 'https://64.media.tumblr.com/76562f720817756d20b0648e3803c03f/ab3fb9bff5cd10e3-91/s1280x1920/60afa9cf35906a3810f5101bce362ea45d9114b4.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1o8uZO7IeDUFlz5gnCVS00vyQUODgAZVK/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Lelouch',
-    description: ' By:? - Anime: Code Geass ',
+    description: ' By:KeyZer - Anime: Code Geass ',
     imageUrl: 'https://64.media.tumblr.com/267d3a143c9aff870beb3ff2b4cccb1e/ab3fb9bff5cd10e3-9e/s1280x1920/6c3a30632d493778b22ef036104d704ae26d6343.jpg',
     downloadUrl: 'https://drive.google.com/file/d/19QFyMoNi82yT8Q9MmYq2HXvT3RkV8pBu/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -813,25 +813,25 @@ export const renders = [
   },
   {
     title: 'Kray Foresight',
-    description: ' By:? - Anime:Promare ',
+    description: ' By:KeyZer - Anime:Promare ',
     imageUrl: 'https://64.media.tumblr.com/b85da376e347a8367a5048f3636f201d/ab3fb9bff5cd10e3-76/s1280x1920/51efb276cb70f6226f65d02461624a986ccabb9c.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1fL0UQ8UX7b2oxDZNtWjeOtJr-3x9v7cm/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: ' Kittan Bachika ',
-    description: ' By:? - Anime: Tengen Toppa Gurren Lagann ',
+    description: ' By:KeyZer - Anime: Tengen Toppa Gurren Lagann ',
     imageUrl: 'https://64.media.tumblr.com/ed3e7d2929a05ced5363f7e9201ed3f7/f5c0ff614b64579d-75/s1280x1920/2501e932a300cd165403e4c129db91c715cea3b2.jpg',
     downloadUrl: ' https://drive.google.com/file/d/17_MEbUGAAgpqpC_-vPuYjcoLZaCK8ksg/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: ' Keith Kazama Flick ',
-    description: ' By:? - Anime:The Beginning ',
+    description: ' By:KeyZer - Anime: B: The Beginning ',
     imageUrl: 'https://64.media.tumblr.com/d9dfbb1393bc42ac256c47e472ff6ffb/f5c0ff614b64579d-25/s1280x1920/f9daabcae8696fd6b134cf74e225d062fe2bed54.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1DMAcCkn4Iw8Hu2lEZNZ6ieQ9egEvczMp/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: ' Kanata Hoshijima ',
-    description: ' By:? - Anime: Kanata No Astra ',
+    description: ' By:KeyZer - Anime: Kanata No Astra ',
     imageUrl: 'https://64.media.tumblr.com/ab217dcee92cab8773686ab76db8c100/f5c0ff614b64579d-10/s1280x1920/b8b90b4e59b7e6b807fbbb6d57c80618143c2a71.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1e_VtjPE-MXoMFUiCSQCXk1jB-2nR2IHp/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -872,14 +872,14 @@ export const renders = [
     downloadUrl: ' https://drive.google.com/file/d/10L5895ZdWEmSmvvve03Ec1EpPgRd06of/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: ' Igna ',
-    description: ' By:? - Anime: Un go. ',
+    title: ' Inga ',
+    description: ' By:KeyZer - Anime: Ungo. ',
     imageUrl: 'https://64.media.tumblr.com/242e99ad1caf5baf72c00c04e1195317/f5c0ff614b64579d-36/s1280x1920/2e588cfbdff4f0fd4c99d214fffecff6695d6d4e.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1a5i1FPuXl-fPLJXqZ35wWomoBRgQMsua/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: 'IF',
-    description: ' By:? - Anime: Choujigen Game Neptune The Animation ',
+    description: ' By:KeyZer - Anime: Choujigen Game Neptune The Animation ',
     imageUrl: 'https://64.media.tumblr.com/d6b07c06af3ae7c692b3405a4d3c4b77/f5c0ff614b64579d-9e/s1280x1920/35f263f59c46976373cbbc6ee04a9053760b9125.jpg',
     downloadUrl: ' https://drive.google.com/file/d/11OX_iZUpLijMXZ77TjQ0JpGqwV0Tv2d2/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -897,7 +897,7 @@ export const renders = [
   },
   {
     title: ' Galo Thymos ',
-    description: ' By:? - Anime: Promare ',
+    description: ' By:KeyZer - Anime: Promare ',
     imageUrl: 'https://64.media.tumblr.com/dbd367af6ba47bdc1b1ab81a02ae38b3/f5c0ff614b64579d-3a/s1280x1920/035523ba2454959a758910054a7e60e1485a04be.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1Qf7_PvnrYNXNB6qE1KIgoC8GIRIZtfjD/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -915,7 +915,7 @@ export const renders = [
   },
   {
     title: 'F',
-    description: ' By:? - Anime:Star Wars Visions ',
+    description: ' By:KeyZer - Anime:Star Wars Visions ',
     imageUrl: 'https://64.media.tumblr.com/86e419548a2ebca6e32f61d36ef6ce3e/f5c0ff614b64579d-42/s1280x1920/7512a4f8696e8581ce55b19ca7057e119a0acb6e.jpg',
     downloadUrl: ' https://drive.google.com/file/d/12JQ9BSOiVAh35HEKHY_zdqttMGF57pJw/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -939,7 +939,7 @@ export const renders = [
   },
   {
     title: 'Bisco Akaboshi y Milo Nekoyanagi',
-    description: ' By:Kuzer - Anime: Sabikui Bisco ',
+    description: ' By:MadPancho - Anime: Sabikui Bisco ',
     imageUrl: 'https://64.media.tumblr.com/10cbbaeeb40d17287c1aeb6c33435744/f5c0ff614b64579d-8f/s1280x1920/645c77e49c5478c1ab2a842ac12f8a8411d5c865.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1dt4OHmmsbDBGAeTd1ctqVw4TZp3XPqRF/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -963,13 +963,13 @@ export const renders = [
   },
   {
     title: 'Aries Springs',
-    description: ' By:? - Anime: Kanata No Astra ',
+    description: ' By:KeyZer - Anime: Kanata No Astra ',
     imageUrl: 'https://64.media.tumblr.com/99b11a1c33747e2662f6e6ca731bad6d/f5c0ff614b64579d-85/s1280x1920/31649edd142d0d23df53b21be20c97d9e5db7d4e.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1RBw5-mtkZ6RGrd7zZa22BUYoAEvhBztN/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'AntiSpiral',
-    description: ' By:? - Anime: Tengen Toppa Gurren-Lagann',
+    description: ' By:KeyZer - Anime: Tengen Toppa Gurren-Lagann',
     imageUrl: 'https://64.media.tumblr.com/e9d0a53d58ac52eae5449f582ac89f0e/f5c0ff614b64579d-ae/s1280x1920/032047b5b2ea385b601e11613cdb395a58fd5861.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Mz9dDgVdNJ-EvMW9dhaP5llKXlM9rhdr/view?usp=sharing', // Reemplaza con tu enlace real
   },
