@@ -559,19 +559,19 @@ export const renders = [
   },
   {
     title: 'Yuichiro Hyakuya',
-    description: ' By: Yuu - Anime: Owari No Seraph',
+    description: ' By: Aritmell - Anime: Owari No Seraph',
     imageUrl: 'https://64.media.tumblr.com/c2c300fc0e3a029416130b2adf72234a/db8347b3c7f0b20c-56/s1280x1920/793ad27d97a5f36d0632a476312ebda4f6b347bd.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1vTPOAh8WD7H205FMoFTOBX752gbHytu7/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Yato',
-    description: ' By:? - Anime: Noragami Aragoto',
+    description: ' By:Mister Yato - Anime: Noragami Aragoto',
     imageUrl: 'https://64.media.tumblr.com/d0d8317d931ad572f99940fed546102e/db8347b3c7f0b20c-4c/s1280x1920/1d7f2295b3fb5a404aa8f260234be6da459cf1a8.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Z42zbX5ZYZuPHG8ed_NNTbuFjDXc6Ncv/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Violet',
-    description: ' By:Raiyugaaa - Fuente: Violet Evergarden',
+    description: ' By:Matt Morgan - Fuente: Violet Evergarden',
     imageUrl: 'https://64.media.tumblr.com/65252b234491047459458caa41d20291/db8347b3c7f0b20c-de/s1280x1920/8aebf647a077e4c392eea1c7619b2cab19789903.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1HEnytbznX3P2NhyuwbltIiHAqXD1B9Fa/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -597,7 +597,7 @@ export const renders = [
   },
   {
     title: 'Maximo',
-    description: ' By:? - Anime: Pokemon',
+    description: ' By:Victor - Anime: Pokemon',
     imageUrl: 'https://64.media.tumblr.com/3d244d3c4f2bca6b9dd3b6c35a859d19/db8347b3c7f0b20c-a3/s1280x1920/f1a97bccf4c74eb2a7f94ede395efc639935894e.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1-sAqUKMlxNFdmkfBQWZMwIDreD4ztSUC/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -795,7 +795,7 @@ export const renders = [
   },
   {
     title: ' Lain ',
-    description: ' By:? - Anime: Lain',
+    description: ' By:Meridiana - Anime: Lain',
     imageUrl: 'https://64.media.tumblr.com/3a222fe9d9b50e12e9f69fcef72766e8/ab3fb9bff5cd10e3-20/s1280x1920/97f37d476967eadcc76ed667b15e3c5031957141.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1F_2x44K73CNtv--to2mK2TBbaMed4G17/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -843,13 +843,13 @@ export const renders = [
   },
   {
     title: ' Joker ',
-    description: ' By:? - Anime: Persona5 ',
+    description: ' By:Zekiros Antologhy - Anime: Persona5 ',
     imageUrl: 'https://64.media.tumblr.com/f96b1642506a20e580bc51ab296cae75/f5c0ff614b64579d-f6/s1280x1920/2b2dfd69998b1c2f10ba60f80f7d135c11af7b90.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1QnkR3O8fAFVX6rkiOG84eK-X02PagllL/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: ' Jill ',
-    description: ' By:? - Juego:VA-11 Hall-A ',
+    description: ' By:varios - Juego:VA-11 Hall-A ',
     imageUrl: 'https://64.media.tumblr.com/e91118a4c29d2a351811701ce5eb2cac/f5c0ff614b64579d-52/s1280x1920/2daac995ca23cc47f9e71efb712d76fda30e4e57.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1WufNUBLWgYS_A3blQHOjdHi_b4LdmGZN/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -885,7 +885,7 @@ export const renders = [
   },
   {
     title: 'Homura',
-    description: ' By:? - Anime: Madoka Magica',
+    description: ' By:ELHomura - Anime: Madoka Magica',
     imageUrl: 'https://64.media.tumblr.com/6191b0f5127cf6354fe4e3e5d4bbb86d/f5c0ff614b64579d-3d/s1280x1920/a55c9347ca14e73b44970a7ccf658b94b47e5262.jpg',
     downloadUrl: ' https://drive.google.com/file/d/15yRjzWOAWwyuiE4AnlUhv3YoBeMitS83/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -903,7 +903,7 @@ export const renders = [
   },
   {
     title: ' Frederica ',
-    description: ' By:? - Anime: Re:Zero',
+    description: ' By:ElLagarto - Anime: Re:Zero',
     imageUrl: 'https://64.media.tumblr.com/8c67f8d0070792a0194ff4c3f185dcea/f5c0ff614b64579d-57/s1280x1920/87285101c58cbc1010df94dd9228ac4dd1cfa6f3.jpg',
     downloadUrl: ' https://drive.google.com/file/d/1fYv2W1U7HwerhUtpTSZjO7IMkrexcaBE/view?usp=sharing ', // Reemplaza con tu enlace real
   },
@@ -927,7 +927,7 @@ export const renders = [
   },
   {
     title: 'Diluc',
-    description: ' By:? - Juego: Genshin Impact',
+    description: ' By:Violet - Juego: Genshin Impact',
     imageUrl: 'https://64.media.tumblr.com/fced8ed6f167b9f79d97d6beb249b8ea/f5c0ff614b64579d-09/s1280x1920/9e717c4373a62c850bd7c47c1c4f40d2c6418938.jpg',
     downloadUrl: 'https://drive.google.com/file/d/10GXPwYSvj6leSIrNrPlgtRkHREMI2Ok0/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -1063,6 +1063,86 @@ export const renders = [
     imageUrl: 'https://64.media.tumblr.com/ed4a51381a63c122bdf4f3c61b2a095e/b585da609a9da825-81/s1280x1920/040f94c7e6e1e9c7bc58462ef01f8c1d629572f2.jpg',
     downloadUrl: ' https://drive.google.com/file/d/14JI_uclMPoeJcwUx9W4MnwY5NrTRpLtM/view?usp=sharing ', // Reemplaza con tu enlace real
   },
+  {
+    title: 'Beatrice ',
+    description: ' By:Alert  - Anime: Re:Zero',
+    imageUrl: 'https://64.media.tumblr.com/203c72e248788eaf250949302a4e205b/529e060abc46f89b-65/s2048x3072/20de7b1d2bd994c95ea07c791bc3a0ad2e1dc4fb.pnj ',
+    downloadUrl: ' https://drive.google.com/file/d/1aVC9bu5kaOaSaW0mcFaNY0hdiVR6Qa1d/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Chika Fujiwara',
+    description: ' By: Alert - Anime: Love is War ',
+    imageUrl: 'https://64.media.tumblr.com/b6ed1e20184467e154a0c2463b6c6156/529e060abc46f89b-27/s1280x1920/cf3885f58c456c9448b3746500d234d5ece5e47e.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/1fz-opBU1H609TYA2sMDCXjYaBJ1ohJuT/view?usp=sharing  ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Hidomi ',
+    description: ' By: “NoSeHablaDeBru-No…”  - Anime: F.L.C.L.',
+    imageUrl: 'https://64.media.tumblr.com/5b6d283f31c8857b727ff2399f275cd8/529e060abc46f89b-31/s2048x3072/0d9e65ad0238361d85a608028da2382e234b55eb.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/1PQH9bgaRbriAstQ6zxSPsFKYfN9vVTID/view?usp=sharing  ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Meigo ',
+    description: ' By:Raymanlex12  - Anime: Endro ',
+    imageUrl: ' https://64.media.tumblr.com/0277c8923aa5597be8e06bcbdd43400c/529e060abc46f89b-c4/s1280x1920/32183cdf6ded28abab6aefa0cb1098abe6797061.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/1io_0M-N-92hfHBIz8LitlqZYFOZtpHqz/view?usp=sharing  ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Mie-san',
+    description: ' By:Alert  - Anime: Sukinako ga Megane wo Wasureta',
+    imageUrl: 'https://64.media.tumblr.com/da1b7785e0013d26ba0b588a40039c58/529e060abc46f89b-9b/s2048x3072/4e6e9503ff767de007472020af4a6e1cabc16b3d.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/1XoZFBDzjZuA0kggosUm8trhhJFjcvOvA/view?usp=sharing  ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Satoru Gojo',
+    description: ' By:Tadano  - Anime: Jujutsu Kaisen ',
+    imageUrl: 'https://64.media.tumblr.com/c5823f94ef166cc8db69ff80e5ef975d/529e060abc46f89b-7d/s2048x3072/05e4d2add8f7cc976aec17e07a51ed2fcf2d60d2.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/1XsmRgMeMAUK-FEDE63FO5Ltia-vvxf4H/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Senko ',
+    description: ' By:Eren Cranel  - Anime: Doctor Stone',
+    imageUrl: 'https://64.media.tumblr.com/98565894ba3236403746881cf1efac2d/529e060abc46f89b-0c/s2048x3072/e838089ee808b2b39f8deb62bf7492af1dfbf4ff.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/1taM0cNIJce2_dhu6aq1_yrht4OCPX1B5/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Sistine Fibel',
+    description: ' By:Alert  - Anime: Roku de Nashi Majutsu Koushi to Kinki Kyōten ',
+    imageUrl: 'https://64.media.tumblr.com/72c59de41fa135df3ed490f221f0577d/529e060abc46f89b-7a/s2048x3072/84d3bf830d13b83f8b0a3f0a419d59a806a42270.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/1HfwIXZfT2GV_HVznWxr3aZMd0Iioe7_z/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Yuki Hanzoumon',
+    description: ' By:Alert  - Anime: Release the Spyce ',
+    imageUrl: 'https://64.media.tumblr.com/e152723521e007a0de67a8bcd3df5f21/529e060abc46f89b-56/s2048x3072/f573e2d37023282df6cfb1eeff647623d3779586.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/15_FMc_UBXhd5CXrIiXmFgk9sHysoJMzj/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Toby ',
+    description: ' By:Alert  - Anime: Naruto ',
+    imageUrl: 'https://64.media.tumblr.com/b70bfa44b2bfef054570db563520a936/529e060abc46f89b-f3/s2048x3072/8a4b8ee8ea354a62ae7f5e784a0ed70a8f8d84e4.pnj ',
+    downloadUrl: 'https://drive.google.com/file/d/1dM9rKjXTlg_Vqo5ADZlQzLIva-tUAyQr/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Mai konoike ',
+    description: ' By: eduardohaloce - Anime: Ameku Takao Detective Karte ',
+    imageUrl: 'https://64.media.tumblr.com/1a1c90194aa7f6924525862aa98d1aed/6acc08f4f020218b-bc/s1280x1920/9b39396ad56a484c5ed6a7103d469dd16b7f0261.pnj ',
+    downloadUrl: ' https://www.mediafire.com/file/jhb2v39qovym3uy/Mai_Konoike.rar/file ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Zwijo zir velgear ',
+    description: ' By: eduardohaloce  - Anime: Yu-Gi-Oh! ',
+    imageUrl: ' https://64.media.tumblr.com/db43d7aba4a0ec60e0c494b6da28bc16/6acc08f4f020218b-24/s2048x3072/c483b49ca90e6216fed7b2d2201487877a54bc2f.pnj ',
+    downloadUrl: ' https://www.mediafire.com/file/0g2o54a3y31p43m/Zwijo.rar/file ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Yuamu Ohdo ',
+    description: ' By: eduardohaloce  - Anime: Yu-Gi-Oh! ',
+    imageUrl: ' https://64.media.tumblr.com/29b9ed32259d55caaafdd8c4979e0da5/6acc08f4f020218b-fa/s2048x3072/728b4e9e671956dfd02e64486bafc6c4bba1e9f1.pnj ',
+    downloadUrl: ' https://www.mediafire.com/file/i3l614njf1tac2k/Yuamu_Ohdo.rar/file ', // Reemplaza con tu enlace real
+  },
+
+
 
 
 
