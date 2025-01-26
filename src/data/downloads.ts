@@ -997,6 +997,72 @@ export const renders = [
     imageUrl: 'https://64.media.tumblr.com/5b16f0f04e0888bf44da39071aef010d/f5c0ff614b64579d-cf/s1280x1920/d12ed7b67ccffce121618c6156e6fc9b11a3cad0.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1N_n9ZavXRNVA_dPd_PXQy8t0UHAmDHYa/view?usp=sharing', // Reemplaza con tu enlace real
   },
+  {
+    title: 'Akame',
+    description: ' By: Avrax - Anime: Akame Ga Kill',
+    imageUrl: 'https://64.media.tumblr.com/699f13e77ba956f73f2a22ded6c25e53/b585da609a9da825-d9/s2048x3072/7913dc702fb1030f7b785760494a17f171a90e1d.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1YYmENX0ZP_fetLQzuOrV2gvl7OU1hOMK/view?usp=drive_link ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Ragna',
+    description: 'By: ? - Anime: BlazBlue ',
+    imageUrl: 'https://64.media.tumblr.com/bde45d0e94e3329612b8bb3dbc9eee39/b585da609a9da825-1b/s1280x1920/0c8415336445b5d33e1852e7d802e86b7e327e79.jpg ',
+    downloadUrl: 'https://drive.google.com/file/d/1DcGM7Kl-uhkZeuXYOjq8SRTzuWNe_wI-/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Alexis Rhodes ',
+    description: 'By: Avrax - Anime: Yu gi oh! GX ',
+    imageUrl: 'https://64.media.tumblr.com/9c15e9e88f3c52c3af0fc8dbd767cbc0/b585da609a9da825-33/s1280x1920/8cc8205b545915dd7be021f7093b786ae28a68da.jpg ',
+    downloadUrl: 'https://drive.google.com/file/d/1eDgDG2W3EM6CskR3Ih2LVfFx9ObECEA7/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Enrico Pucci',
+    description: 'By: Kaira - Anime: Jojos Bizarre Adventure: S.O. ',
+    imageUrl: 'https://64.media.tumblr.com/cdb122e3d8d6a44287f7fe570b46e788/b585da609a9da825-2c/s1280x1920/0a9af1e38eef959f52391421aee7416bec36cc39.jpg ',
+    downloadUrl: 'https://drive.google.com/file/d/1509LQbdwg13Ev4oKaZ1iX8z2AWp1dbdU/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: ' Edward Elric',
+    description: 'By: Avrax - Anime:Full Metal Alchemist ',
+    imageUrl: 'https://64.media.tumblr.com/1549fc5d240278cca143a8684e0ee57f/b585da609a9da825-6c/s1280x1920/ecb37725aa43d88a2214711309deb23775bfcb73.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1J8SUR_N4JyXik8E3jx-N2631IHwib3LU/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Momo Minamoto ',
+    description: 'By: Avrax - Anime: Release the Spyce ',
+    imageUrl: 'https://64.media.tumblr.com/99c908a09d80907890be88a093dd8538/b585da609a9da825-ad/s400x600/24da345e37df033a29b5d2d4fd9c1bf19070e6f5.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1-jiaiOua3932Softw4VGxz7lXkwqgK5c/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Makise ',
+    description: 'By: Avrax - Anime:Steins:Gate ',
+    imageUrl: 'https://64.media.tumblr.com/5de3a4bfd715e4e0d1cc236c4e947840/b585da609a9da825-54/s400x600/0250135d04ecbb4055a41634537c579c4cee7006.jpg ',
+    downloadUrl: 'https://drive.google.com/file/d/1An76A3RIEqxtZF1WBLTbseLSxSTTLmrt/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Kyouko hori ',
+    description: 'By: Eduardohaloce - Anime: Horimiya ',
+    imageUrl: 'https://64.media.tumblr.com/80c9b597661252ecef68f4cbb34b7523/b585da609a9da825-d8/s400x600/3e23449355df659e6dea3b2229662688fb303399.jpg ',
+    downloadUrl: 'https://drive.google.com/file/d/10dGM-u4vQNUZUM9-1xQLddpMkoLIeFwo/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Rem ',
+    description: 'By: Avrax - Anime:Re:Zero',
+    imageUrl: 'https://64.media.tumblr.com/49bec673f61cb3a855f5f628f592d67d/b585da609a9da825-d1/s2048x3072/730fd7edc5480b2cada6157e13a5570d6c5df0d9.jpg ',
+    downloadUrl: 'https://drive.google.com/file/d/1XjWhCsIe2Apj6NSmkLpqLlk-wdf3JUSv/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Fern ',
+    description: 'By: Avrax - Anime: Soul No Freiren',
+    imageUrl: 'https://64.media.tumblr.com/251781bcb70ad8d9981dda5986a95a97/b585da609a9da825-c7/s1280x1920/67545c0e0f6ba9cc918d59e23aa0464def52ab37.jpg ',
+    downloadUrl: ' https://drive.google.com/file/d/18FeRsNPiU4IoH-4xzapOlUlswBfuEJdv/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Noire',
+    description: 'By: Avrax - Anime: Hyperdimension Neptunia ',
+    imageUrl: 'https://64.media.tumblr.com/ed4a51381a63c122bdf4f3c61b2a095e/b585da609a9da825-81/s1280x1920/040f94c7e6e1e9c7bc58462ef01f8c1d629572f2.jpg',
+    downloadUrl: ' https://drive.google.com/file/d/14JI_uclMPoeJcwUx9W4MnwY5NrTRpLtM/view?usp=sharing ', // Reemplaza con tu enlace real
+  },
 
 
 
