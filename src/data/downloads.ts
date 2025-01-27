@@ -530,7 +530,7 @@ export const renders = [
     title: 'Kaoru Tanamachi',
     description: 'By: LuisFriends - Anime: AmagamiSS',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/43%20-%20la%20vieja%20de%20luis.png',
-    downloadUrl: 'https://www.mediafire.com/file/y94crb75dmmwoxo/Kaoru+Tanamachi.zip/file', // Reemplaza con tu enlace real
+    downloadUrl: 'https://www.mediafire.com/file/k3emmfgwib8ryaz/KAORU+ROSEWALD++-+RENDERS+PACK+27+01+2025.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Ene',
