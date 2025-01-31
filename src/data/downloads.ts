@@ -256,7 +256,7 @@ export const plugins = [
     title: 'IGNITE 2021',
     description: 'Plugin para Sony Vegas/Premier, contiene puppet',
     imageUrl: 'https://64.media.tumblr.com/e86ae718d31c2cbfff2867574809ea96/0b83ea840ef418a8-25/s1280x1920/a9ae1fc0235d95dfa43ad9067a6f735dc61aca84.pnj',
-    downloadUrl: 'https://www.mediafire.com/file/2prp2kvgsw4yl5r/RSMB_SV.rar/file', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1IUGmKUdB7Ku_ezlJisRtsPz2LGXyfwDL/view?usp=sharing', // Reemplaza con tu enlace real
   },
     {
     title: 'VP Flow',
