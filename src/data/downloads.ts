@@ -40,7 +40,7 @@ export const programs = [
   title: 'Adobe Photoshop 2018',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
-  downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  downloadUrl: 'https://drive.google.com/file/d/1Mr3R3JSaexafC9N6ngaVtkUP53LdUXfz/view', // Reemplaza con tu enlace real
   },
   {
   title: 'Adobe Photoshop 2019',
