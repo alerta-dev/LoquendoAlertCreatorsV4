@@ -37,6 +37,12 @@ export const programs = [
   downloadUrl: 'https://drive.google.com/file/d/1HTroH5U7NuCfTANn7CGW7rzS2TVuooMg/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
+  title: 'Adobe Photoshop 2012 CS6',
+  description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://mega.nz/file/yJBx1bIK#F09bg1NY2V-I3zKqS-mwevUZfQxCknhDyrS80WDMg0I', // Reemplaza con tu enlace real
+  },
+  {
   title: 'Adobe Photoshop 2018',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
