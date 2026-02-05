@@ -283,9 +283,10 @@ export const renders = [
   {
     title: 'Albedo',
     description: 'By:Dark Zero - Juego: Overlord',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png',
+    imageUrl: '  https://files.catbox.moe/mv5uml.png',
     downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
   },
+  //https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png
   {
     title: 'Chiaki Oogaki',
     description: 'By:Raymanalex12 - Anime:CampCamp',
