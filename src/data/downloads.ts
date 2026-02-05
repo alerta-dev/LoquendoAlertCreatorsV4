@@ -281,7 +281,7 @@ export const renders = [
     downloadUrl: 'https://www.mediafire.com/file/tk7w6ive6u1dne3/Chisato_Nishikigi.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Albedo sos',
+    title: 'Albedo',
     description: 'By:Dark Zero - Juego: Overlord',
     imageUrl: '  https://files.catbox.moe/mv5uml.png',
     downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
