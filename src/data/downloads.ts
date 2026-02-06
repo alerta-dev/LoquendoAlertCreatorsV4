@@ -309,7 +309,7 @@ export const renders = [
     {
     title: 'Rias Gremory',
     description: 'By:? - Anime: High School DxD',
-    imageUrl: 'https://64.media.tumblr.com/e408d44c875c8db0bc7baef827865504/dc50788798412448-fa/s1280x1920/33c8cd3620a313034ecab3ada6cf2fb0e23eb9a6.jpg',
+    imageUrl: 'https://64.media.tumblr.com/b051f10ee3336a92dd8e37efe40173bc/1bad90bfb9c23bea-83/s1280x1920/6cacbd2fd00150c0c4e739a6c52bdd8ab5bd1754.jpg',
     downloadUrl: 'https://mega.nz/file/XXpgDbzK#Rq_4TX1h8MbqoBcvKXfygwe0_br_ijdKK4YgU-5LJSI', // Reemplaza con tu enlace real
   },
     {
