@@ -277,30 +277,30 @@ export const renders = [
   {
     title: 'Chisato Nishikigi',
     description: 'By: Luismps - Anime: Lycoris Recoil',
-    imageUrl: 'https://64.media.tumblr.com/00adfea1a21d063eae98906f5de13f90/dc50788798412448-4f/s250x400/f4385ed301d0ce3661c39e1c7fb7efa420984c57.jpg',
+    imageUrl: 'https://64.media.tumblr.com/00adfea1a21d063eae98906f5de13f90/dc50788798412448-4f/s1280x1920/2aaa4e5dc0d9fda8d62d6108699e1c167aee6466.jpg',
     downloadUrl: 'https://www.mediafire.com/file/tk7w6ive6u1dne3/Chisato_Nishikigi.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Albedo',
     description: 'By:Dark Zero - Juego: Overlord',
-    imageUrl: 'https://64.media.tumblr.com/6c919a98a14b925c5cbe9d9148190c17/dc50788798412448-8e/s250x400/f7f22e145083941b433551d7ce6d1164f07dab2f.jpg',
+    imageUrl: 'https://64.media.tumblr.com/6c919a98a14b925c5cbe9d9148190c17/dc50788798412448-8e/s1280x1920/77fd3c8bc0b67c46affe7ed083c0bf90ea6f1fb5.jpg',
     downloadUrl: 'https://mega.nz/file/iexhFKrZ#7HHTgQamX1Pc0IkDFqZmwibYoFaMDDowaHb2Vi6wZd8', // Reemplaza con tu enlace real
   },
   //https://loquendoalertcreators.github.io/RendersIMG/2%20-%20Albedooverlord.png
   {
     title: 'Chiaki Oogaki',
     description: 'By:Raymanalex12 - Anime:CampCamp',
-    imageUrl: 'https://64.media.tumblr.com/f0876bc1ee0cbe8977d022bc8d04c374/dc50788798412448-92/s250x400/921e74ecaeaf16ac4a633c143c6188cf1c509faf.jpg',
+    imageUrl: 'https://64.media.tumblr.com/f0876bc1ee0cbe8977d022bc8d04c374/dc50788798412448-92/s1280x1920/58705262d404a4d0af61c750b0fb342faa6e2b04.jpg',
     downloadUrl: 'https://www.mediafire.com/file/5hnfr2b3v9emlm0/Chiaki_%2528Por_raymanalex_12_Para_Loquendo_Alert%2529.rar/file?fbclid=IwAR0jMyYEzTm46EjuTaaQTFQR5Kzwq-vkvt97B6oR30Rdwo_Q1btx_xdKGRo', // Reemplaza con tu enlace real
   },
     {
     title: '2B',
     description: 'By:Dark Zero - Anime: Nier',
-    imageUrl: 'https://64.media.tumblr.com/878f8541bb3a391521728b537a63c933/dc50788798412448-96/s250x400/f252b844f3222376f93da8011aa75cdc2522c9c8.jpg',
+    imageUrl: 'https://64.media.tumblr.com/878f8541bb3a391521728b537a63c933/dc50788798412448-96/s1280x1920/2d7591145563935210465a473be21cb59f0493fe.jpg',
     downloadUrl: 'https://mega.nz/file/THQy0azD#BKBOfyhD5YQXyx1gxWuoOZGDc16N7oogcLpKFChV33Y', // Reemplaza con tu enlace real
   },
     {
-    title: 'Bocchi',
+    title: 'Hitori Gotoh',
     description: 'By: ? - Anime: Bocchi the Rock!',
     imageUrl: 'https://files.catbox.moe/489sta.jpg',
     downloadUrl: 'https://mega.nz/file/RuglkQSA#MXoAf-cBO0ywm_M_n0P6aZBXlxVegKLotGscYvzvTgU', // Reemplaza con tu enlace real
@@ -309,61 +309,61 @@ export const renders = [
     {
     title: 'Rias Gremory',
     description: 'By:? - Anime: High School DxD',
-    imageUrl: 'https://64.media.tumblr.com/e408d44c875c8db0bc7baef827865504/dc50788798412448-fa/s250x400/9f88f63de081bafcfcee1688f9c80de828300de8.jpg',
+    imageUrl: 'https://64.media.tumblr.com/e408d44c875c8db0bc7baef827865504/dc50788798412448-fa/s1280x1920/33c8cd3620a313034ecab3ada6cf2fb0e23eb9a6.jpg',
     downloadUrl: 'https://mega.nz/file/XXpgDbzK#Rq_4TX1h8MbqoBcvKXfygwe0_br_ijdKK4YgU-5LJSI', // Reemplaza con tu enlace real
   },
     {
     title: 'Elma Joui',
-    description: 'By:Dark Zero - Anime: Kobayashi no maid dragon',
-    imageUrl: 'https://64.media.tumblr.com/e2b89771f0d54cda3e98eb1dc401d84a/dc50788798412448-b0/s250x400/214b62cedba0b98b1fe56b766538cc6cd2517e95.jpg',
+    description: 'By: Dark Zero - Anime: Miss Kobayashi Maid Dragon',
+    imageUrl: 'https://64.media.tumblr.com/e2b89771f0d54cda3e98eb1dc401d84a/dc50788798412448-b0/s1280x1920/47416ef44462755c3871c9a41af367f48214424d.jpg',
     downloadUrl: 'https://mega.nz/file/Keo1TACD#PElBU0bhkJAHInztJPp1ApDpJXHf_57I-eI-pnbBwl0', // Reemplaza con tu enlace real
   },
   {
     title: 'Izuku Midoriya',
     description: 'By:Joaco - Anime: Boku no hero academia',
-    imageUrl: 'https://64.media.tumblr.com/831fed71117022b990596812be5533df/dc50788798412448-a8/s250x400/0d42ccec9b6df0c5fdf072c58a0cb69a2fdcadb8.jpg',
+    imageUrl: 'https://64.media.tumblr.com/831fed71117022b990596812be5533df/dc50788798412448-a8/s1280x1920/5ffe0b66fa5a75b151f8633a8ba3e57cbc3e1e4f.jpg',
     downloadUrl: 'https://www.mediafire.com/file/9597jav2qkqt9uy/Deku.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Yuu Ishigami',
     description: 'By:Kally 1706 - Anime: Love is War',
-    imageUrl: 'https://64.media.tumblr.com/62bde7df5cc4418ef2b07085bfe37c6f/dc50788798412448-5d/s250x400/0c227f0c1df3c8f7b08fdd8954987c189629a129.jpg',
+    imageUrl: 'https://64.media.tumblr.com/62bde7df5cc4418ef2b07085bfe37c6f/dc50788798412448-5d/s1280x1920/e9a126dd061b5412b09926fd30cf6e5db75d3aae.jpg',
     downloadUrl: 'https://mega.nz/file/Keo1TACD#PElBU0bhkJAHInztJPp1ApDpJXHf_57I-eI-pnbBwl0', // Reemplaza con tu enlace real
   },
   {
     title: 'Monkey D. Luffy',
     description: 'By:Rodrigo - Anime: One piece',
-    imageUrl: 'https://64.media.tumblr.com/0d5e945bdfba832e128ac03aeecd71fd/dc50788798412448-bf/s250x400/0d51cc1937f0f1d35dc4883c1c70104f3875f2b8.jpg',
+    imageUrl: 'https://64.media.tumblr.com/0d5e945bdfba832e128ac03aeecd71fd/dc50788798412448-bf/s1280x1920/689ef561dc594e52cd516abb68467cc56cb99c19.jpg',
     downloadUrl: 'https://www.mediafire.com/file/bm55rid3eyor4av/Luffy_render.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Torhu',
-    description: 'By:Dark Zero - Anime: Kobayashi no maid dragon',
-    imageUrl: 'https://64.media.tumblr.com/1dce2d39f96f309ee9d366e421086be1/dc50788798412448-c9/s250x400/ca441e6d030fc973bdbf7a49a3cf9b2e50e2b989.jpg',
+    title: 'Tohru',
+    description: 'By:Dark Zero - Anime: Miss Kobayashi Maid Dragon',
+    imageUrl: 'https://64.media.tumblr.com/1dce2d39f96f309ee9d366e421086be1/dc50788798412448-c9/s1280x1920/ec81f0277088e98153d37fdefd876c93c382e8ee.jpg',
     downloadUrl: 'https://mega.nz/file/nCgSEDZL#-itEAKWO2QE79JaagsNsn_Zqx4LuJlC8lWjZQKzsg7w', // Reemplaza con tu enlace real
   },
   {
     title: 'Taiga Aisaka',
     description: 'By:eduardohaloce - Anime: Toradora!',
-    imageUrl: 'https://64.media.tumblr.com/1c8a60b22dca4bb1f2327daf227f3cff/dc50788798412448-67/s250x400/b9f61c3ea662f20ac1b27bb1e4a986fba892997a.jpg',
+    imageUrl: 'https://64.media.tumblr.com/1c8a60b22dca4bb1f2327daf227f3cff/dc50788798412448-67/s1280x1920/834b54b8da89f970a6fd8967f85583ef5b0daa17.jpg',
     downloadUrl: 'https://mega.nz/file/nCgSEDZL#-itEAKWO2QE79JaagsNsn_Zqx4LuJlC8lWjZQKzsg7w', // Reemplaza con tu enlace real
   },
   {
     title: 'Kirito (Kirigaya Kazuto)',
     description: 'By:Residents96 - Anime: S.A.O.',
-    imageUrl: 'https://64.media.tumblr.com/df91657c891fe1eeb5cfdb4d3530d8a3/dc50788798412448-0c/s250x400/3f1f067a37f259387d903d94b00dc2709eee99ee.jpg',
+    imageUrl: 'https://64.media.tumblr.com/df91657c891fe1eeb5cfdb4d3530d8a3/dc50788798412448-0c/s1280x1920/8f8f7ab3ed19d2030bfe82b755580a3488b288ae.jpg',
     downloadUrl: 'https://www.mediafire.com/file/uxcr0f3a78wylf8/nudes_de_residents69.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Makima',
     description: 'By:Fos - Anime: Chainsaw Man',
-    imageUrl: 'https://64.media.tumblr.com/7fbe01e9159c5a9e04f0cda6c0743f01/dc50788798412448-de/s250x400/97ec1a2cb0f1d8a7f4404dbc4097982dacea5402.jpg',
+    imageUrl: 'https://64.media.tumblr.com/7fbe01e9159c5a9e04f0cda6c0743f01/dc50788798412448-de/s1280x1920/63453174b12adf75832d5176aba65c58f91e1e11.jpg',
     downloadUrl: 'https://mega.nz/folder/bUI2jBqR#oxsqGCeBp8MJ3Hv1fR-s6A/folder/TQAgQJST', // Reemplaza con tu enlace real
   },
   {
     title: 'Megumin',
     description: 'By:Fos - Anime: Konosuba',
-    imageUrl: 'https://64.media.tumblr.com/6d62d81a62f990ad2b414813bf394867/dc50788798412448-c5/s250x400/587ebf0bdf5be161ddffbac105b5540cf6c02f4d.jpg',
+    imageUrl: 'https://64.media.tumblr.com/6d62d81a62f990ad2b414813bf394867/dc50788798412448-c5/s1280x1920/6a85e5f4ba0c655ca3782d90be6fc72edd874afb.jpg',
     downloadUrl: 'https://mega.nz/folder/6M5xnTRL#P7BJO5V9wQoW9S5oVxR-6g/folder/aA4BDZxS', // Reemplaza con tu enlace real
   },
   {
