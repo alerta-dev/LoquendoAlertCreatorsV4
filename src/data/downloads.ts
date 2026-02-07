@@ -375,85 +375,85 @@ export const renders = [
   {
     title: 'Kenshin',
     description: 'By:Eduardohaloce - Anime: SamuraiX',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/17%20-%20Kenshin%20Himura.png',
+    imageUrl: 'https://64.media.tumblr.com/8c642b6363bf7f1d208991440c0f9017/90c89e19b7e9d8bf-d3/s1280x1920/e8384e3eb8b103bda1bcf94430ea745942105b1f.jpg',
     downloadUrl: 'https://www.mediafire.com/file/3izxbej3ixfeije/kenshin_himura.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Shoyo Hinata',
     description: 'By:Eduardohaloce - Anime: Haikyu!',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/18%20-%20Shoyo%20Hinata.png',
+    imageUrl: 'https://64.media.tumblr.com/6662e49761f2aa4db741548f067425d4/90c89e19b7e9d8bf-03/s1280x1920/6dfb448ef41f2749b1b383510995fff2e2dd2734.jpg',
     downloadUrl: 'https://www.mediafire.com/file/6y56o9lf8l7zevf/Shoyo_Hinata.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Marin',
+    title: 'Marin Kitagawa',
     description: 'By:Raymanalex12 - Anime: My Dress-up Darling',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/19%20-%20marin.png',
+    imageUrl: 'https://64.media.tumblr.com/1240d3968fa6be4ed7693d621c528fa4/90c89e19b7e9d8bf-be/s1280x1920/1f574c7a11c271a2f35def67de89334cedf376ea.jpg',
     downloadUrl: 'https://www.mediafire.com/file/72oyjprobo2cwop/marin.rar/file?fbclid=IwAR2P3YA-C1KScsYoB0VobqYrq9kFZVNf4Jsa5cwhMGsvZ_zAn_F7MhVFzyA', // Reemplaza con tu enlace real
   },
   {
-    title: 'Gamo',
+    title: 'Maki Gamo',
     description: 'By:Eduardohaloce - Anime: Nagatoro',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/20%20-%20makichan.png',
+    imageUrl: 'https://64.media.tumblr.com/c49d2ccf9d26a3400a6a01f6e18814ab/90c89e19b7e9d8bf-ba/s1280x1920/4371db4c98a044edf9f11794f9e73b6542494ac5.jpg',
     downloadUrl: 'https://www.mediafire.com/file/qzfphe7fxyi4iun/gamo_chan.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Shindou',
     description: 'By:Eduardohaloce - Anime: Horimiya',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/21%20-%20Shindou%20Kouichi.png',
+    imageUrl: 'https://64.media.tumblr.com/bba0c5e3f5651cabe43348c2584901f0/90c89e19b7e9d8bf-b3/s1280x1920/232599373dc5d57814e60256154884672403e0b7.jpg',
     downloadUrl: 'https://www.mediafire.com/file/850gfscb6pp986m/Shindou_Kouichi.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Fu',
     description: 'By:Raymanalex12 - Anime: Release the Spyce',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/22%20-%20fuu.png',
+    imageUrl: 'https://64.media.tumblr.com/faa786c0627586dab59d21225b840890/90c89e19b7e9d8bf-f1/s1280x1920/62f6ff3064b76c66da779026c209c3eb346673a0.jpg',
     downloadUrl: 'https://www.mediafire.com/file/5nkzdcs0avnwmst/fu+sagami+%28De+Raymanalex+12+para+Loquendo+Alert%29.rar/file?fbclid=IwAR23iG9V2crS_819qooCnRqlWdG1oaOva4dGC-XT6ZafEA-vqMeeJAmTMyE', // Reemplaza con tu enlace real
   },
   {
     title: 'Gildarts',
     description: 'By:Eduardohaloce - Anime: Clive',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/23%20-%20el%20hombrexd.png',
+    imageUrl: 'https://64.media.tumblr.com/93074b0c9734aa2fc10577b376717fdd/90c89e19b7e9d8bf-57/s1280x1920/e33350873db0c28f41a6dc89012e3c4b678d248f.jpg',
     downloadUrl: 'https://www.mediafire.com/file/x5iyvfbjhosqctl/gildarts_clive.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Maho',
     description: 'By:Raymanalex12 - Anime: Steins:Gate',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/24%20-%20chicapeluchexd.png',
+    imageUrl: 'https://64.media.tumblr.com/8c700e69c788ecee465dc123804d5fad/90c89e19b7e9d8bf-87/s1280x1920/1b165d7b7c5ffe3dcfaa409eb96b96e62af0e45b.jpg',
     downloadUrl: 'https://www.mediafire.com/file/3xi61matjdgh0t1/Maho+Steins+gate+Renders+By+Raymanalex12.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Ryuko',
     description: 'By:Dark Zero - Anime: Kill La Kill; más adelante hay otro diferente',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/24%20-%20mi%20novia.png',
+    imageUrl: 'https://64.media.tumblr.com/8593c19343894f16e29ddec888731976/90c89e19b7e9d8bf-5f/s1280x1920/4fbd7313053103bdeb0f0e6abf93bb66b7a7fc5e.jpg',
     downloadUrl: 'https://mega.nz/file/sg5CzLTI#Em7V55iYFzaB0dLyJzb4gOa9sugo_hp-c-Bo9WfZ7Zw', // Reemplaza con tu enlace real
   },
   {
     title: 'Saito',
     description: 'By:Raymanalex12 - Anime: Oshi no ko',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/25%20-%20mi%20tia.png',
+    imageUrl: 'https://64.media.tumblr.com/36cefbc08faf7144e0f0d39c7ace54c8/90c89e19b7e9d8bf-18/s1280x1920/00df6852e2e9c9eead899baf5c828e611fb02252.jpg',
     downloadUrl: 'https://www.mediafire.com/file/jdk8acrjrwka0mc/Saito_Miyako_%28De_Raymanalex_12_para_Loquendo_Alert%29.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Haruhi',
     description: 'By:Terpintox - Anime: T.M.O.H.S',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/26%20-%20monachinagenericaxd.png',
+    imageUrl: 'https://64.media.tumblr.com/3170d1bd2ce2913486c97f49a6711448/90c89e19b7e9d8bf-18/s1280x1920/782242563324f4feafd23622dba39e753011daec.jpg',
     downloadUrl: 'https://www.mediafire.com/file/4nasdhcbuj2rrdl/haruhi_suzumiya.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Yuki',
+    title: 'Setsuna Yuki',
     description: 'By:Non - Anime: LoveLive!',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/27%20-%20la%20peruana.png',
+    imageUrl: 'https://64.media.tumblr.com/f7798ba97085e778b4589da35e0f9531/90c89e19b7e9d8bf-31/s1280x1920/db3f7895e5a923f7947cbb4599d4ee99e8ea8f8d.jpg',
     downloadUrl: 'https://www.mediafire.com/file/xqrbnyhn3qirnbr/Yuki_Nijigasaki.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Alice',
     description: 'By:Non - Anime: S.A.O.',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/28%20-%20la%20tipa%20lol.png',
+    imageUrl: 'https://64.media.tumblr.com/450cddafb8ff945d011acf91e96df01a/90c89e19b7e9d8bf-df/s1280x1920/ed9af64630e10737546f705f99421288fb733289.jpg',
     downloadUrl: 'https://www.mediafire.com/file/4zy2elpbhptawbt/%5BNon_Nijikasi%5D_V2.rar/file', // Reemplaza con tu enlace real
   },
   {
     title: 'Yuria',
     description: 'By:Raymanalex12 - Anime: Mieruko-chan',
-    imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/29%20-%20no%20c%20bro.png',
+    imageUrl: 'https://64.media.tumblr.com/99b5dfb3c9f4cd2e7a6c9aa3dd6700fb/90c89e19b7e9d8bf-af/s1280x1920/e078446206a94a58a163817f7447aa695029fdb0.jpg',
     downloadUrl: 'https://www.mediafire.com/file/ik6cwx7f0rhvbhh/Yuria_Niguredou_%2528De_Raymanalex_12_para_Loquendo_Alert%2529.rar/file?fbclid=IwAR2eVbU4TrwUyUaXUe0PlFZsLkvI10AxPeskrarP7_9bJ71NVgZ6ylniW4M', // Reemplaza con tu enlace real
   },
   {
